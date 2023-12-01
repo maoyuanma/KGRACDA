@@ -1,0 +1,1257 @@
+cir-ccdc66	circ-miRNA	mir-488-3p
+circ kmt2e	circ-miRNA	mir-204-5p
+circ-anapc7	circ-miRNA	mir-181
+circ-prkci	circ-miRNA	mir-1324
+circ-satb2	circ-miRNA	mir-939
+circ_1639	circ-miRNA	mir-122
+circ_drosha	circ-miRNA	mir-1252-5p
+circ_efcab2	circ-miRNA	mir-485-5p
+circankrd36	circ-miRNA	hsa-mir-3614-3p
+circankrd36	circ-miRNA	hsa-mir-498
+circankrd36	circ-miRNA	hsa-mir-501-5p
+circdlgap4	circ-miRNA	mir-143
+circfoxo3	circ-miRNA	e2f1
+circfoxo3	circ-miRNA	fak
+circfoxo3	circ-miRNA	hif1a
+circfoxo3	circ-miRNA	id-1
+circhla-c	circ-miRNA	mir-150
+circibtk	circ-miRNA	mir-29b
+circpan3	circ-miRNA	mir-153-5p
+circpan3	circ-miRNA	mir-183-5p-xiap
+circr-284	circ-miRNA	mir-221
+circrna-0044073	circ-miRNA	mir-107
+circrna-0067835	circ-miRNA	mir-155
+circrna-chr19	circ-miRNA	mir-30b-3p
+circrna.2837	circ-miRNA	mir-34
+circrna_000203	circ-miRNA	mir-26b-5p
+circrna_0016624	circ-miRNA	mir-98
+circrna_0046366	circ-miRNA	mir-34a
+circrna_104670	circ-miRNA	mir-17-3p
+circrna_15698	circ-miRNA	mir-185
+circrna_atp9b	circ-miRNA	mir-138-5p
+circrunx2	circ-miRNA	has-mir-203
+circsema4b	circ-miRNA	mir-431
+circtlk1	circ-miRNA	mir-335-3p
+circular rna wdr77	circ-miRNA	mir-124
+circusp45	circ-miRNA	mir-127-5p
+circznf609	circ-miRNA	mef2a
+circznf609	circ-miRNA	mir-615-5p
+cznf609	circ-miRNA	mir-184
+czranb1	circ-miRNA	mir-217
+has-circrna_0046367	circ-miRNA	mir-34a
+hsa-circ-0005870	circ-miRNA	hsa-mir-1273g-3p
+hsa-circ-0005870	circ-miRNA	hsa-mir-5095
+hsa-circ-0005870	circ-miRNA	hsa-mir-5096
+hsa-circ-0005870	circ-miRNA	hsa-mir-619-5p
+hsa-circ-0005870	circ-miRNA	hsa-mir-6807-3p
+hsa-circ-000595	circ-miRNA	mir-19a
+hsa-circrna-102685	circ-miRNA	hsa-mir-146a-5p
+hsa-circrna-102685	circ-miRNA	hsa-mir-146b-5p
+hsa-circrna-102685	circ-miRNA	hsa-mir-182-5p
+hsa_circ_0000175	circ-miRNA	mir-150
+hsa_circ_0000488	circ-miRNA	hsa-mir-496
+hsa_circ_0000615	circ-miRNA	akt3
+hsa_circ_0000615	circ-miRNA	mir-150-5p
+hsa_circ_0000615	circ-miRNA	mir-184
+hsa_circ_0000615	circ-miRNA	mir-615-5p
+hsa_circ_0001859	circ-miRNA	mir-204
+hsa_circ_0001946	circ-miRNA	mir-7
+hsa_circ_0001946	circ-miRNA	ube2a
+hsa_circ_0002062	circ-miRNA	cdk6
+hsa_circ_0002062	circ-miRNA	hsa-mir-940
+hsa_circ_0002062	circ-miRNA	hsa-mir-942-5p
+hsa_circ_0004277	circ-miRNA	hsa-mir-138-5p
+hsa_circ_0004277	circ-miRNA	hsa-mir-30c-1-3p
+hsa_circ_0004277	circ-miRNA	hsa-mir-328-3p
+hsa_circ_0004277	circ-miRNA	hsa-mir-571
+hsa_circ_0004277	circ-miRNA	hsa-mir-892b
+hsa_circ_0004712	circ-miRNA	let-7g-5p
+hsa_circ_0004712	circ-miRNA	mir-323a-5p
+hsa_circ_0004712	circ-miRNA	mir-455-3p
+hsa_circ_0004712	circ-miRNA	mir-661
+hsa_circ_0004712	circ-miRNA	mir-876-3p
+hsa_circ_0005105	circ-miRNA	mir-26a
+hsa_circ_0005105	circ-miRNA	mir-519d-3p
+hsa_circ_0005105	circ-miRNA	nampt
+hsa_circ_0005402	circ-miRNA	mir-1248
+hsa_circ_0005402	circ-miRNA	mir-766
+hsa_circ_0005870	circ-miRNA	hsa-mir-1273g-3p
+hsa_circ_0005870	circ-miRNA	hsa-mir-5095
+hsa_circ_0005870	circ-miRNA	hsa-mir-5096
+hsa_circ_0005870	circ-miRNA	hsa-mir-619-5p
+hsa_circ_0005870	circ-miRNA	hsa-mir-6807-3p
+hsa_circ_0006323	circ-miRNA	mir-130a-3p
+hsa_circ_0012919	circ-miRNA	mir-125a-3p
+hsa_circ_0014243	circ-miRNA	hsa-mir-10a-5p
+hsa_circ_0019069	circ-miRNA	mir-519d-3p
+hsa_circ_0022342	circ-miRNA	crkl
+hsa_circ_0022342	circ-miRNA	hsa-mir-940
+hsa_circ_0022342	circ-miRNA	sa-mir-940
+hsa_circ_0023404	circ-miRNA	mir-136
+hsa_circ_0023404	circ-miRNA	mir-217
+hsa_circ_0023404	circ-miRNA	mir-636
+hsa_circ_0023404	circ-miRNA	mir-646
+hsa_circ_0023404	circ-miRNA	mir-665
+hsa_circ_0023404	circ-miRNA	mmp13
+hsa_circ_0025039	circ-miRNA	mir-198
+hsa_circ_0026372	circ-miRNA	mir-519d-3p
+hsa_circ_0026388	circ-miRNA	mir-519d-3p
+hsa_circ_0030055	circ-miRNA	mir-519d-3p
+hsa_circ_0032970	circ-miRNA	hsa-mir-130a-3p
+hsa_circ_0032970	circ-miRNA	mir-130a-3p
+hsa_circ_0037909	circ-miRNA	hsa-mir-637
+hsa_circ_0041796	circ-miRNA	mir-519d-3p
+hsa_circ_004183	circ-miRNA	mir-1972
+hsa_circ_0045714	circ-miRNA	mir-193b
+hsa_circ_0051172	circ-miRNA	hsa-mir-130a-3p
+hsa_circ_0051172	circ-miRNA	mir-130a-3p
+hsa_circ_0054345	circ-miRNA	mir-9-5p
+hsa_circ_0054537	circ-miRNA	hsa-mir-130a-3p
+hsa_circ_0054537	circ-miRNA	mir-130a-3p
+hsa_circ_0057093	circ-miRNA	mir-519d-3p
+hsa_circ_0057576	circ-miRNA	hsa-mir-130a-3p
+hsa_circ_0057576	circ-miRNA	mir-130a-3p
+hsa_circ_0061893	circ-miRNA	mir-9-5p
+hsa_circ_0066922	circ-miRNA	mir-519d-3p
+hsa_circ_0068087	circ-miRNA	mir-197.
+hsa_circ_0068489	circ-miRNA	mir-519d-3p
+hsa_circ_0068942	circ-miRNA	mir-130a-3p
+hsa_circ_0070963	circ-miRNA	mir-9-5p
+hsa_circ_0071410	circ-miRNA	mir-9-5p
+hsa_circ_0072410	circ-miRNA	mir-519d-3p
+hsa_circ_0072765	circ-miRNA	mir-9-5p
+hsa_circ_0080145	circ-miRNA	mir-29b
+hsa_circ_0082824	circ-miRNA	hsa-mir-130a-3p
+hsa_circ_0082824	circ-miRNA	mir-130a-3p
+hsa_circ_0083357	circ-miRNA	hsa-mir-130a-3p
+hsa_circ_0083357	circ-miRNA	mir-130a-3p
+hsa_circ_0087206	circ-miRNA	mir-519d-3p
+hsa_circ_0089378	circ-miRNA	hsa-mir-130a-3p
+hsa_circ_0089378	circ-miRNA	mir-130a-3p
+hsa_circ_0091702	circ-miRNA	mir-200c
+hsa_circ_052372	circ-miRNA	hsa-mir-522-3p
+hsa_circ_052372	circ-miRNA	hsa-mir-943
+hsa_circ_082319	circ-miRNA	hsa-mir-522-3p
+hsa_circ_082319	circ-miRNA	hsa-mir-943
+hsa_circ_087631	circ-miRNA	hsa-mir-522-3p
+hsa_circ_087631	circ-miRNA	hsa-mir-943
+hsa_circ_100290	circ-miRNA	mir-203
+hsa_circ_102485	circ-miRNA	hsa-mir-522-3p
+hsa_circ_102485	circ-miRNA	hsa-mir-943
+hsa_circ_402458	circ-miRNA	hsa-mir-522-3p
+hsa_circ_402458	circ-miRNA	hsa-mir-943
+hsa_circ_406329	circ-miRNA	hsa-mir-522-3p
+hsa_circ_406329	circ-miRNA	hsa-mir-943
+hsa_circ_407176	circ-miRNA	hsa-mir-522-3p
+hsa_circ_407176	circ-miRNA	hsa-mir-943
+akt3	miRNA-disease	hirschsprung disease
+cdk6	miRNA-disease	chronic thromboembolic pulmonary hypertension
+crkl	miRNA-disease	chronic thromboembolic pulmonary hypertension
+e2f1	miRNA-disease	cardiac senescence
+fak	miRNA-disease	cardiac senescence
+has-mir-203	miRNA-disease	osteoporosis
+hif1a	miRNA-disease	cardiac senescence
+hsa-mir-10a-5p	miRNA-disease	hypertension
+hsa-mir-1273g-3p	miRNA-disease	hypertension
+hsa-mir-1273g-3p	miRNA-disease	hypertensive
+hsa-mir-130a-3p	miRNA-disease	coronary artery disease
+hsa-mir-138-5p	miRNA-disease	leukemia
+hsa-mir-146a-5p	miRNA-disease	crohn disease
+hsa-mir-146b-5p	miRNA-disease	crohn disease
+hsa-mir-182-5p	miRNA-disease	crohn disease
+hsa-mir-30c-1-3p	miRNA-disease	leukemia
+hsa-mir-328-3p	miRNA-disease	leukemia
+hsa-mir-3614-3p	miRNA-disease	type 2 diabetes mellitus
+hsa-mir-496	miRNA-disease	acute myeloid leukemia
+hsa-mir-498	miRNA-disease	type 2 diabetes mellitus
+hsa-mir-501-5p	miRNA-disease	type 2 diabetes mellitus
+hsa-mir-5095	miRNA-disease	hypertension
+hsa-mir-5095	miRNA-disease	hypertensive
+hsa-mir-5096	miRNA-disease	hypertension
+hsa-mir-5096	miRNA-disease	hypertensive
+hsa-mir-522-3p	miRNA-disease	primary biliary cholangitis
+hsa-mir-571	miRNA-disease	leukemia
+hsa-mir-619-5p	miRNA-disease	hypertension
+hsa-mir-619-5p	miRNA-disease	hypertensive
+hsa-mir-637	miRNA-disease	essential hypertension
+hsa-mir-6807-3p	miRNA-disease	hypertension
+hsa-mir-6807-3p	miRNA-disease	hypertensive
+hsa-mir-892b	miRNA-disease	leukemia
+hsa-mir-940	miRNA-disease	chronic thromboembolic pulmonary hypertension
+hsa-mir-942-5p	miRNA-disease	chronic thromboembolic pulmonary hypertension
+hsa-mir-943	miRNA-disease	primary biliary cholangitis
+id-1	miRNA-disease	cardiac senescence
+let-7g-5p	miRNA-disease	rheumatoid arthritis
+mef2a	miRNA-disease	vascular endothelial dysfunction
+mir-107	miRNA-disease	atherosclerosis
+mir-122	miRNA-disease	alcoholic liver disease
+mir-124	miRNA-disease	cardiovascular disease
+mir-1248	miRNA-disease	multiple sclerosis
+mir-1252-5p	miRNA-disease	temporal lobe epilepsy
+mir-125a-3p	miRNA-disease	systemic lupus erythematous
+mir-127-5p	miRNA-disease	glucocorticoid-induced osteonecrosis of femoral head
+mir-130a-3p	miRNA-disease	coronary artery disease
+mir-1324	miRNA-disease	hirschsprung disease
+mir-136	miRNA-disease	osteoarthritis
+mir-138-5p	miRNA-disease	osteoarthritis
+mir-143	miRNA-disease	acute ischemic stroke
+mir-150	miRNA-disease	lupus nephritis
+mir-150-5p	miRNA-disease	hirschsprung disease
+mir-153-5p	miRNA-disease	acute myeloid leukemia
+mir-155	miRNA-disease	temporal lobe epilepsy
+mir-17-3p	miRNA-disease	intervertebral disc degeneration
+mir-181	miRNA-disease	acute myeloid leukemia
+mir-183-5p-xiap	miRNA-disease	acute myeloid leukemia
+mir-184	miRNA-disease	diabetic retinopathy
+mir-184	miRNA-disease	lymphangiogenesis
+mir-185	miRNA-disease	diabetic nephropathy
+mir-193b	miRNA-disease	osteoarthritis
+mir-197.	miRNA-disease	diabetes mellitus
+mir-1972	miRNA-disease	hepatic steatosis
+mir-198	miRNA-disease	malignant melanoma
+mir-19a	miRNA-disease	aortic aneurysm
+mir-200c	miRNA-disease	intervertebral disc degeneration
+mir-203	miRNA-disease	acute myeloid leukemia
+mir-204	miRNA-disease	rheumatoid arthritis
+mir-204-5p	miRNA-disease	diabetic cataract
+mir-217	miRNA-disease	osteoarthritis
+mir-217	miRNA-disease	retinal neurodegeneration
+mir-221	miRNA-disease	carotid plaque rupture
+mir-26a	miRNA-disease	osteoarthritis
+mir-26b-5p	miRNA-disease	cardiac fibrosis
+mir-29b	miRNA-disease	chronic myeloid leukemia
+mir-29b	miRNA-disease	systemic lupus erythematosus
+mir-30b-3p	miRNA-disease	ebola virus disease
+mir-323a-5p	miRNA-disease	rheumatoid arthritis
+mir-335-3p	miRNA-disease	ischemic stroke
+mir-34	miRNA-disease	sciatic nerve injury
+mir-34a	miRNA-disease	hepatic steatosis
+mir-34a	miRNA-disease	hepatocellular steatosis
+mir-431	miRNA-disease	intervertebral disc degeneration
+mir-455-3p	miRNA-disease	rheumatoid arthritis
+mir-485-5p	miRNA-disease	temporal lobe epilepsy
+mir-488-3p	miRNA-disease	hirschsprung disease
+mir-519d-3p	miRNA-disease	diabetes retinopathy
+mir-519d-3p	miRNA-disease	osteoarthritis
+mir-615-5p	miRNA-disease	diabetic retinopathy
+mir-615-5p	miRNA-disease	vascular endothelial dysfunction
+mir-636	miRNA-disease	osteoarthritis
+mir-646	miRNA-disease	osteoarthritis
+mir-661	miRNA-disease	rheumatoid arthritis
+mir-665	miRNA-disease	osteoarthritis
+mir-7	miRNA-disease	alzheimer
+mir-766	miRNA-disease	multiple sclerosis
+mir-876-3p	miRNA-disease	rheumatoid arthritis
+mir-9-5p	miRNA-disease	irradiated hepatic stellate cell
+mir-9-5p	miRNA-disease	liver fibrosis
+mir-939	miRNA-disease	coronary atherosclerotic heart disease
+mir-98	miRNA-disease	postmenopausal osteoporosis
+mmp13	miRNA-disease	osteoarthritis
+nampt	miRNA-disease	osteoarthritis
+sa-mir-940	miRNA-disease	chronic thromboembolic pulmonary hypertension
+ube2a	miRNA-disease	alzheimer
+MiR-1246	miRNA-lncRNA	CAIF
+MiR-145-5p	miRNA-lncRNA	MEG3
+MiR-33a-5p	miRNA-lncRNA	DANCR
+MiR-382-3p	miRNA-lncRNA	MALAT1
+MicroRNA 3120	miRNA-lncRNA	WTAPP1
+Mir-27b	miRNA-lncRNA	CIR
+let-7f	miRNA-lncRNA	MALAT1
+miR-101-3p	miRNA-lncRNA	NR_104160
+miR-101-3p	miRNA-lncRNA	T199678
+miR-106a-5p	miRNA-lncRNA	H19
+miR-10b-5p	miRNA-lncRNA	SHNG16
+miR-1251	miRNA-lncRNA	RMST
+miR-1252-5p	miRNA-lncRNA	SOX2-OT
+miR-125a	miRNA-lncRNA	ANRIL
+miR-125b	miRNA-lncRNA	MALAT1
+miR-125b-5p	miRNA-lncRNA	LINC00520
+miR-125b-5p	miRNA-lncRNA	MALAT1
+miR-126-3p	miRNA-lncRNA	XIST
+miR-126-5p	miRNA-lncRNA	MALAT1
+miR-129-5p	miRNA-lncRNA	TUG1
+miR-130a	miRNA-lncRNA	CTBP1-AS2
+miR-130a	miRNA-lncRNA	H19
+miR-130a-3p	miRNA-lncRNA	MFI2-AS1
+miR-130a-3p miR-101a-3p miR-150-5p	miRNA-lncRNA	XIST
+miR-133a-3p	miRNA-lncRNA	MEG3
+miR-138-5p	miRNA-lncRNA	KLF3-AS1
+miR-139-3p	miRNA-lncRNA	H19
+miR-140-3p	miRNA-lncRNA	NEAT1
+miR-140-5p	miRNA-lncRNA	H19
+miR-141-3p	miRNA-lncRNA	SNHG16
+miR-142-3p	miRNA-lncRNA	TWF1
+miR-144	miRNA-lncRNA	CASC2
+miR-144-3p	miRNA-lncRNA	MALAT1
+miR-145	miRNA-lncRNA	NKILA
+miR-145 mir-330-5p	miRNA-lncRNA	Sox2ot
+miR-145-5p	miRNA-lncRNA	KCNQ1OT1
+miR-145-5p	miRNA-lncRNA	TUG1
+miR-146a-5p	miRNA-lncRNA	HCG18
+miR-146b-5p	miRNA-lncRNA	MALAT1
+miR-148a-3p	miRNA-lncRNA	SNHG4
+miR-148b	miRNA-lncRNA	HOTAIRM1
+miR-148b 19b	miRNA-lncRNA	DNMT1
+miR-149	miRNA-lncRNA	PVT1
+miR-149	miRNA-lncRNA	ZEB2-AS
+miR-149-5p	miRNA-lncRNA	MIAT
+miR-150-5p	miRNA-lncRNA	LINC01121
+miR-153-3p	miRNA-lncRNA	LINC00641
+miR-155	miRNA-lncRNA	GAS5
+miR-155	miRNA-lncRNA	MALAT1
+miR-155	miRNA-lncRNA	MEG3
+miR-155	miRNA-lncRNA	PCED1B-AS1
+miR-15b-5p	miRNA-lncRNA	MALAT1
+miR-16-5p	miRNA-lncRNA	NEAT1
+miR-16-5p	miRNA-lncRNA	SNHG1
+miR-17	miRNA-lncRNA	MEG3
+miR-17-5p	miRNA-lncRNA	SNHG16
+miR-181a	miRNA-lncRNA	AFAP1-AS
+miR-181c-5p	miRNA-lncRNA	SNHG14
+miR-185-3p	miRNA-lncRNA	CCAT1
+miR-185-5p	miRNA-lncRNA	H19
+miR-186-5p	miRNA-lncRNA	TTTY15
+miR-188-3p	miRNA-lncRNA	TUG1
+miR-188-3p MiR-21	miRNA-lncRNA	APF
+miR-18a-5p	miRNA-lncRNA	CASC2
+miR-18b-5p	miRNA-lncRNA	KCNQ1OT1
+miR-19	miRNA-lncRNA	XIST
+miR-190a-3p miR-93	miRNA-lncRNA	PART1
+miR-194-5p	miRNA-lncRNA	NEAT1
+miR-195	miRNA-lncRNA	AFAP1-AS1
+miR-196a	miRNA-lncRNA	H19
+miR-196a-5p	miRNA-lncRNA	LOXL1-AS1
+miR-197-3p	miRNA-lncRNA	MALAT1
+miR-203a-3p	miRNA-lncRNA	Mical2
+miR-204-5p	miRNA-lncRNA	LICN00518
+miR-205-3p	miRNA-lncRNA	NEAT1
+miR-206	miRNA-lncRNA	lncRNA-KLF3-AS1
+miR-21	miRNA-lncRNA	GAS5
+miR-21	miRNA-lncRNA	MEG3
+miR-212	miRNA-lncRNA	lncRNACNN3-206
+miR-214	miRNA-lncRNA	Plscr4
+miR-214-3p	miRNA-lncRNA	MIAT
+miR-214-3p	miRNA-lncRNA	PVT1
+miR-216a-5p mir-217	miRNA-lncRNA	ZEB1-AS1
+miR-217	miRNA-lncRNA	GAS5
+miR-22	miRNA-lncRNA	MALAT1
+miR-22-3p	miRNA-lncRNA	FAM83H-AS1
+miR-22-3p	miRNA-lncRNA	H19
+miR-221-3p	miRNA-lncRNA	miR-221-3p
+miR-222	miRNA-lncRNA	MIAT
+miR-224-5p	miRNA-lncRNA	NEAT1
+miR-2355-3p	miRNA-lncRNA	MALAT1
+miR-23a-3p	miRNA-lncRNA	GAS5
+miR-23c	miRNA-lncRNA	NEAT1
+miR-24-3p	miRNA-lncRNA	SOX2
+miR-25-3p	miRNA-lncRNA	OIP5-AS1
+miR-25-3p	miRNA-lncRNA	SNHG12
+miR-26a	miRNA-lncRNA	TUG1
+miR-26a	miRNA-lncRNA	lncRNA-MEG3
+miR-26a-5p	miRNA-lncRNA	NORAD
+miR-27a	miRNA-lncRNA	ZFAS1
+miR-296	miRNA-lncRNA	EAG1
+miR-29b	miRNA-lncRNA	HULC
+miR-29b	miRNA-lncRNA	SNHG7
+miR-29b	miRNA-lncRNA	TUG1
+miR-29b-3p	miRNA-lncRNA	OIP5-AS1
+miR-29b-3p	miRNA-lncRNA	XIST
+miR-30	miRNA-lncRNA	XIST
+miR-30b-3p	miRNA-lncRNA	HNF1A-AS1
+miR-30c	miRNA-lncRNA	CASC7
+miR-31	miRNA-lncRNA	MIR31HG
+miR-31 miR-31*	miRNA-lncRNA	Loc554202
+miR-31-5p	miRNA-lncRNA	SLC20A1
+miR-324-3p	miRNA-lncRNA	NR_038323
+miR-324-5p	miRNA-lncRNA	Gpr19
+miR-324-5p	miRNA-lncRNA	SOCS2-AS1
+miR-325	miRNA-lncRNA	FOXD3-AS1
+miR-329-5p	miRNA-lncRNA	MALAT1
+miR-342-3p	miRNA-lncRNA	H19
+miR-345-3p	miRNA-lncRNA	MEG3
+miR-34a	miRNA-lncRNA	SNHG9
+miR-34a	miRNA-lncRNA	UFC1
+miR-34a	miRNA-lncRNA	XIST
+miR-34a-3p	miRNA-lncRNA	LncTmem235
+miR-34a-5p	miRNA-lncRNA	DRAIC
+miR-34a-5p	miRNA-lncRNA	Mirt2
+miR-34a-5p	miRNA-lncRNA	SNHG7
+miR-34c	miRNA-lncRNA	BANCR
+miR-373-3p	miRNA-lncRNA	PART1
+miR-373-3p	miRNA-lncRNA	SNHG16
+miR-374b-5p	miRNA-lncRNA	MAGI2-AS3
+miR-376a	miRNA-lncRNA	SNHG1
+miR-377 C3p	miRNA-lncRNA	NEAT1
+miR-378	miRNA-lncRNA	PCFL
+miR-383	miRNA-lncRNA	AK077216
+miR-410-3p	miRNA-lncRNA	NEAT1
+miR-423-5p	miRNA-lncRNA	LOXL1-AS1
+miR-424-5p	miRNA-lncRNA	MEG3
+miR-425-5p	miRNA-lncRNA	Snhg8
+miR-449a	miRNA-lncRNA	H2k2
+miR-451	miRNA-lncRNA	LncRNA-p21
+miR-452-3p	miRNA-lncRNA	kcnq1ot1
+miR-455	miRNA-lncRNA	H19
+miR-455-5p	miRNA-lncRNA	HOXA-AS3
+miR-466i-5p miR-466k	miRNA-lncRNA	Kcnq1ot1
+miR-4685-5p	miRNA-lncRNA	LBX2-AS1
+miR-4701-5p	miRNA-lncRNA	PICSAR
+miR-4769-5p	miRNA-lncRNA	TRPC7-AS1
+miR-486-5p	miRNA-lncRNA	lnc-ISG20
+miR-489-3p	miRNA-lncRNA	SNHG1
+miR-491-5p miR-214-3p	miRNA-lncRNA	VPS9D1-AS1
+miR-497-5p	miRNA-lncRNA	XIST
+miR-506 miR-146a-5p	miRNA-lncRNA	NEAT1
+miR-525-5p	miRNA-lncRNA	GAS5
+miR-558	miRNA-lncRNA	Linc00261
+miR-5692	miRNA-lncRNA	RMST
+miR-590-5p	miRNA-lncRNA	ATB
+miR-599	miRNA-lncRNA	XIST
+miR-637	miRNA-lncRNA	FAL1
+miR-637	miRNA-lncRNA	LOC646616
+miR-654-3p	miRNA-lncRNA	ZFAS1
+miR-675	miRNA-lncRNA	H19
+miR-7-5p	miRNA-lncRNA	ANRIL
+miR-743b-5	miRNA-lncRNA	LncRNA-NR_033515
+miR-758-3p	miRNA-lncRNA	SNHG3
+miR-770-5p	miRNA-lncRNA	MEG3
+miR-770-5p	miRNA-lncRNA	MEG8
+miR-9-3p	miRNA-lncRNA	MIR22HG
+miR-92a-3p	miRNA-lncRNA	GAS5
+miR-92a-3p	miRNA-lncRNA	NEAT1
+miR-92a-3p miR-21	miRNA-lncRNA	GAS5
+miR-93 miR-320	miRNA-lncRNA	MIAT
+miR-96-5p	miRNA-lncRNA	LNC_000052
+miR-let-7a	miRNA-lncRNA	LINC00265
+miR-let-7c-5p	miRNA-lncRNA	MEG3
+miR128-1-3p	miRNA-lncRNA	LOC100507600
+miRNA-21	miRNA-lncRNA	TUG1
+mir-1-3p	miRNA-lncRNA	H19
+mir-1275	miRNA-lncRNA	HAND2-AS1
+mir-130a	miRNA-lncRNA	H19
+mir-133a-3p	miRNA-lncRNA	MEG3
+mir-137	miRNA-lncRNA	GAS5
+mir-140-5p	miRNA-lncRNA	MSC-AS1
+mir-145-5p	miRNA-lncRNA	MEG3
+mir-146b	miRNA-lncRNA	NEAT1
+mir-150-5p mir-145	miRNA-lncRNA	MALAT1
+mir-155-5p	miRNA-lncRNA	CTBP1-AS2
+mir-16	miRNA-lncRNA	MEG3
+mir-16	miRNA-lncRNA	UCA1
+mir-205-5p	miRNA-lncRNA	SNHG5
+mir-21	miRNA-lncRNA	MEG3
+mir-21 miR-29c-3p	miRNA-lncRNA	TUG1
+mir-211	miRNA-lncRNA	XIST
+mir-217	miRNA-lncRNA	TERC
+mir-221	miRNA-lncRNA	GAS5
+mir-222	miRNA-lncRNA	MIAT
+mir-26a	miRNA-lncRNA	SNHG5
+mir-27a-3p	miRNA-lncRNA	FOXD2-AS1
+mir-34c	miRNA-lncRNA	MALAT1
+mir-375	miRNA-lncRNA	WT1-AS
+mir-488-3p	miRNA-lncRNA	PVT1
+mir-498	miRNA-lncRNA	GAS5
+mir-92a-3p	miRNA-lncRNA	GAS5
+1810034e14rik	lncRNA-disease	ischemic stroke
+ac007032.1	lncRNA-disease	proliferative vitreo retinopathy
+ac020928.1	lncRNA-disease	leukoaraiosis
+ac037198.2	lncRNA-disease	proliferative vitreo retinopathy
+ac111653.1	lncRNA-disease	sciatic nerve injury
+af119885	lncRNA-disease	primary great saphenous vein varicosities
+afap1-as1	lncRNA-disease	hirschsprung disease
+afap1-as1	lncRNA-disease	pre-eclampsia
+agap2-as1	lncRNA-disease	pre-eclampsia
+aim1-3	lncRNA-disease	type 2 diabetes mellitus
+ak012226	lncRNA-disease	hepatocellular steatosis
+ak021444	lncRNA-disease	primary great saphenous vein varicosities
+ak077216	lncRNA-disease	diabetes retinopathy
+ak085865	lncRNA-disease	asthma
+ak094457	lncRNA-disease	hypertensive
+ak131850	lncRNA-disease	aortic aneurysm
+ak136714	lncRNA-disease	atherosclerosis
+al929472.2	lncRNA-disease	proliferative vitreo retinopathy
+ancr	lncRNA-disease	osteoarthritis
+ancr	lncRNA-disease	postmenopausal osteoporosis
+anril	lncRNA-disease	acute ischemic stroke
+anril	lncRNA-disease	acute lymphoblastic leukemia
+anril	lncRNA-disease	coronary artery disease
+anril	lncRNA-disease	crohn disease
+anril	lncRNA-disease	ischemic stroke
+anril	lncRNA-disease	osteoarthritis
+anril	lncRNA-disease	systemic lupus erythematous
+anril	lncRNA-disease	type 2 diabetes mellitus
+apf	lncRNA-disease	myocardial infarction
+appat	lncRNA-disease	atherosclerosis
+atb	lncRNA-disease	malignant melanoma
+atb	lncRNA-disease	osteoarthritis
+awpph	lncRNA-disease	coronary artery disease
+balr-2	lncRNA-disease	leukemia
+bancr	lncRNA-disease	atherosclerosis
+bancr	lncRNA-disease	coronary artery disease
+bancr	lncRNA-disease	diabetes retinopathy
+bancr	lncRNA-disease	malignant melanoma
+basp1-as1	lncRNA-disease	major depressive disorder
+bat5	lncRNA-disease	coronary artery disease
+bc088259	lncRNA-disease	sciatic nerve injury
+bc088327	lncRNA-disease	sciatic nerve injury
+blacat2	lncRNA-disease	lymphangiogenesis
+blnc1	lncRNA-disease	diabetic nephropathy
+bmncr	lncRNA-disease	osteoporosis
+c15orf51	lncRNA-disease	temporal lobe epilepsy
+c6orf176	lncRNA-disease	temporal lobe epilepsy
+caif	lncRNA-disease	myocardial infarction
+caif	lncRNA-disease	osteoarthritis
+casc11	lncRNA-disease	atherosclerosis
+casc11	lncRNA-disease	coronary artery disease
+casc11	lncRNA-disease	postmenopausal osteoporosis
+casc15	lncRNA-disease	acute lymphoblastic leukemia
+casc15	lncRNA-disease	leukemia
+casc2	lncRNA-disease	active pulmonary tuberculosis
+casc2	lncRNA-disease	diabetic nephropathy
+casc2	lncRNA-disease	malignant melanoma
+casc2	lncRNA-disease	metabolism-related diseases
+casc2	lncRNA-disease	osteoarthritis
+casc2	lncRNA-disease	type 2 diabetes mellitus
+casc7	lncRNA-disease	heart failure
+casc8	lncRNA-disease	active pulmonary tuberculosis
+ccat1	lncRNA-disease	inflammatory bowel disease
+ccdc26	lncRNA-disease	acute myeloid leukemia
+ccdc26	lncRNA-disease	leukemia
+cdkn2a	lncRNA-disease	ischemic stroke
+chrf	lncRNA-disease	heart failure
+cir	lncRNA-disease	osteoarthritis
+coromarker	lncRNA-disease	coronary artery disease
+crnde	lncRNA-disease	aortic aneurysm
+crnde	lncRNA-disease	heart failure
+crnde	lncRNA-disease	postmenopausal osteoporosis
+ctbp1-as2	lncRNA-disease	diabetic nephropathy
+ctbp1-as2	lncRNA-disease	osteoarthritis
+ctc-471j1.2	lncRNA-disease	systemic lupus erythematous
+ctepha1	lncRNA-disease	chronic thromboembolic pulmonary hypertension
+cyp4b1-ps1-001	lncRNA-disease	diabetic nephropathy
+dancr	lncRNA-disease	diabetes mellitus
+dancr	lncRNA-disease	gestational diabetes mellitus
+dancr	lncRNA-disease	osteoporosis
+dancr	lncRNA-disease	postmenopausal osteoporosis
+dilc	lncRNA-disease	osteoarthritis
+dilc	lncRNA-disease	rheumatoid arthritis
+dio3os	lncRNA-disease	inflammatory bowel disease
+dlx6os1	lncRNA-disease	diabetic nephropathy
+dq786243	lncRNA-disease	crohn disease
+dq786243	lncRNA-disease	inflammatory bowel disease
+draic	lncRNA-disease	hirschsprung disease
+ensmust00000147869	lncRNA-disease	diabetic nephropathy
+enst00000416361	lncRNA-disease	coronary artery disease
+enst00000422183	lncRNA-disease	pulmonary tuberculosis
+enst00000448942	lncRNA-disease	systemic lupus erythematous
+enst00000501122.2	lncRNA-disease	systemic lupus erythematous
+enst00000517573	lncRNA-disease	major depressive disorder
+enst00000550337.	lncRNA-disease	type 2 diabetes mellitus
+enst00000566208	lncRNA-disease	major depressive disorder
+enst00000570366	lncRNA-disease	pulmonary tuberculosis
+enst00000604411.1	lncRNA-disease	systemic lupus erythematous
+enst00113	lncRNA-disease	atherosclerosis
+faf1	lncRNA-disease	intervertebral disc degeneration
+fal1	lncRNA-disease	hirschsprung disease
+fam183b	lncRNA-disease	temporal lobe epilepsy
+fam74a3	lncRNA-disease	temporal lobe epilepsy
+fam83h-as1	lncRNA-disease	intervertebral disc degeneration
+fas-as1	lncRNA-disease	osteoarthritis
+fer1l4	lncRNA-disease	osteoarthritis
+foxc2-as1	lncRNA-disease	primary great saphenous vein varicosities
+foxd2-as1	lncRNA-disease	osteoarthritis
+foxd3-as1	lncRNA-disease	malignant melanoma
+ftx	lncRNA-disease	ovarian endometriosis
+g36810	lncRNA-disease	primary great saphenous vein varicosities
+gas-5	lncRNA-disease	osteoarthritis
+gas5	lncRNA-disease	active pulmonary tuberculosis
+gas5	lncRNA-disease	acute ischemic stroke
+gas5	lncRNA-disease	aortic aneurysm
+gas5	lncRNA-disease	atherosclerosis
+gas5	lncRNA-disease	cardiac fibrosis
+gas5	lncRNA-disease	coronary artery disease
+gas5	lncRNA-disease	diabetic nephropathy
+gas5	lncRNA-disease	intervertebral disc degeneration
+gas5	lncRNA-disease	ischemic stroke
+gas5	lncRNA-disease	lymphangiogenesis
+gas5	lncRNA-disease	malignant melanoma
+gas5	lncRNA-disease	multiple sclerosis
+gas5	lncRNA-disease	myocardial infarction
+gas5	lncRNA-disease	osteoporosis
+gas5	lncRNA-disease	primary great saphenous vein varicosities
+gas5	lncRNA-disease	rheumatoid arthritis
+gas5	lncRNA-disease	systemic lupus erythematous
+gas5	lncRNA-disease	type 2 diabetes mellitus
+gasl1	lncRNA-disease	heart failure
+gdep	lncRNA-disease	temporal lobe epilepsy
+gm15645	lncRNA-disease	diabetic nephropathy
+gm2691	lncRNA-disease	myocardial infarction
+gm4419	lncRNA-disease	diabetic nephropathy
+gm5524	lncRNA-disease	diabetic nephropathy
+gpr19	lncRNA-disease	myocardial infarction
+h19	lncRNA-disease	acne
+h19	lncRNA-disease	aortic aneurysm
+h19	lncRNA-disease	atherosclerosis
+h19	lncRNA-disease	cardiac fibrosis
+h19	lncRNA-disease	coronary artery disease
+h19	lncRNA-disease	diabetes retinopathy
+h19	lncRNA-disease	diabetic retinopathy
+h19	lncRNA-disease	hepatic steatosis
+h19	lncRNA-disease	hepatocellular steatosis
+h19	lncRNA-disease	intervertebral disc degeneration
+h19	lncRNA-disease	ischemic stroke
+h19	lncRNA-disease	liver fibrosis
+h19	lncRNA-disease	malignant melanoma
+h19	lncRNA-disease	metabolism-related diseases
+h19	lncRNA-disease	moyamoya disease
+h19	lncRNA-disease	myocardial infarction
+h19	lncRNA-disease	myocardial senescence
+h19	lncRNA-disease	osteoarthritis
+h19	lncRNA-disease	ovarian endometriosis
+h19	lncRNA-disease	primary biliary cholangitis
+h19	lncRNA-disease	repeated implantation failure
+h19	lncRNA-disease	type 2 diabetes mellitus
+h2k2	lncRNA-disease	diabetic nephropathy
+ha117	lncRNA-disease	hirschsprung disease
+hand2-as1	lncRNA-disease	chronic myeloid leukemia
+hcg18	lncRNA-disease	intervertebral disc degeneration
+hcg22	lncRNA-disease	kawasaki disease
+heat2	lncRNA-disease	heart failure
+hist1h2ag-6	lncRNA-disease	type 2 diabetes mellitus
+hla-drb6	lncRNA-disease	temporal lobe epilepsy
+hn12	lncRNA-disease	hirschsprung disease
+hnf1a-as1	lncRNA-disease	lymphangiogenesis
+hnf1a-as1	lncRNA-disease	multiple sclerosis
+hotair	lncRNA-disease	aortic aneurysm
+hotair	lncRNA-disease	coronary artery disease
+hotair	lncRNA-disease	intervertebral disc degeneration
+hotair	lncRNA-disease	malignant melanoma
+hotair	lncRNA-disease	multiple sclerosis
+hotair	lncRNA-disease	t2dm with depression
+hotairm1	lncRNA-disease	acute myeloid leukemia
+hottip	lncRNA-disease	acute myeloid leukemia
+hottip	lncRNA-disease	diabetes retinopathy
+hottip	lncRNA-disease	diabetic retinopathy
+hottip	lncRNA-disease	hematopoiesis
+hottip	lncRNA-disease	hirschsprung disease
+hoxa-as3	lncRNA-disease	atherosclerosis
+hulc	lncRNA-disease	acute ischemic stroke
+hulc	lncRNA-disease	hepatocellular steatosis
+hulc	lncRNA-disease	myocardial infarction
+humt	lncRNA-disease	lymphangiogenesis
+ifng-as1	lncRNA-disease	coronary artery disease
+il21r-as1	lncRNA-disease	coronary artery disease
+kcnq1ot1	lncRNA-disease	acute myeloid leukemia
+kcnq1ot1	lncRNA-disease	atherosclerosis
+kcnq1ot1	lncRNA-disease	diabetic cataract
+kcnq1ot1	lncRNA-disease	diabetic nephropathy
+kcnq1ot1	lncRNA-disease	heart failure
+kcnq1ot1	lncRNA-disease	myocardial infarction
+kif9-as1	lncRNA-disease	inflammatory bowel disease
+klf3-as1	lncRNA-disease	myocardial infarction
+lamp5-as1	lncRNA-disease	leukemia
+lbx2-as1	lncRNA-disease	aortic aneurysm
+linc-maf-4	lncRNA-disease	multiple sclerosis
+linc-pint	lncRNA-disease	glucocorticoid-induced osteonecrosis of femoral head
+linc-pint	lncRNA-disease	type 2 diabetes mellitus
+linc-scrg1	lncRNA-disease	liver fibrosis
+linc00152	lncRNA-disease	pulmonary tuberculosis
+linc00176	lncRNA-disease	systemic lupus erythematous
+linc00261	lncRNA-disease	pre-eclampsia
+linc00265	lncRNA-disease	aortic aneurysm
+linc00311	lncRNA-disease	osteoporosis
+linc00324	lncRNA-disease	intervertebral disc degeneration
+linc00513	lncRNA-disease	systemic lupus erythematous
+linc00518	lncRNA-disease	malignant melanoma
+linc00520	lncRNA-disease	malignant melanoma
+linc00599	lncRNA-disease	glucocorticoid-induced osteonecrosis of femoral head
+linc00641	lncRNA-disease	intervertebral disc degeneration
+linc00968	lncRNA-disease	diabetic nephropathy
+linc01121	lncRNA-disease	intervertebral disc degeneration
+linc01272	lncRNA-disease	inflammatory bowel disease
+linc0597	lncRNA-disease	systemic lupus erythematous
+linc8986	lncRNA-disease	systemic lupus erythematous
+lincrna-p21	lncRNA-disease	atherosclerosis
+link-a	lncRNA-disease	diabetic nephropathy
+lnc-dc	lncRNA-disease	multiple sclerosis
+lnc-dc	lncRNA-disease	systemic lupus erythematous
+lnc-fam76b-4:1	lncRNA-disease	pulmonary tuberculosis
+lnc-ghrl-3:2	lncRNA-disease	type 2 diabetes mellitus
+lnc-ghrl-3:3	lncRNA-disease	type 2 diabetes mellitus
+lnc-hnf1b-3:1	lncRNA-disease	pulmonary tuberculosis
+lnc-hnrnpu-1:7	lncRNA-disease	pulmonary tuberculosis
+lnc-isg20	lncRNA-disease	diabetic nephropathy
+lnc-lfar1-anril	lncRNA-disease	liver fibrosis
+lnc3643	lncRNA-disease	systemic lupus erythematous
+lnc5150	lncRNA-disease	systemic lupus erythematous
+lnc7514	lncRNA-disease	systemic lupus erythematous
+lnc_000052	lncRNA-disease	postmenopausal osteoporosis
+lncrna-1810034e14rik	lncRNA-disease	acute ischemic stroke
+lncrna-cir	lncRNA-disease	facet joint osteoarthritis
+lncrna-cir	lncRNA-disease	osteoarthritis
+lncrna-fa2h-2-mlkl	lncRNA-disease	atherosclerosis
+lncrna-heim	lncRNA-disease	liver fibrosis
+lncrna-klf3-as1	lncRNA-disease	osteoarthritis
+lncrna-meg3	lncRNA-disease	atherosclerosis
+lncrna-nr_104160	lncRNA-disease	hypertensive
+lncrna-p21	lncRNA-disease	osteoarthritis
+lncrnacnn3-206	lncRNA-disease	crohn disease
+lnctmem235	lncRNA-disease	glucocorticoid-induced osteonecrosis of femoral head
+loc100507600	lncRNA-disease	hirschsprung disease
+loc101926975	lncRNA-disease	hirschsprung disease
+loc103691771	lncRNA-disease	silicosis
+loc149620	lncRNA-disease	temporal lobe epilepsy
+loc152742	lncRNA-disease	pulmonary tuberculosis
+loc285194	lncRNA-disease	atherosclerosis
+loc400891	lncRNA-disease	temporal lobe epilepsy
+loc554202	lncRNA-disease	hirschsprung disease
+loc646616	lncRNA-disease	essential hypertension
+loxl1-as1	lncRNA-disease	osteoarthritis
+loxl1-as1	lncRNA-disease	postmenopausal osteoporosis
+ly86-as1	lncRNA-disease	type 2 diabetes mellitus
+m6a	lncRNA-disease	myocardial senescence
+magi2-as3	lncRNA-disease	alzheimer
+magi2-as3	lncRNA-disease	intervertebral disc degeneration
+magi2-as3	lncRNA-disease	multiple system atrophy
+malat	lncRNA-disease	type 2 diabetes mellitus
+malat-1	lncRNA-disease	systemic lupus erythematous
+malat1	lncRNA-disease	asthma
+malat1	lncRNA-disease	atherosclerosis
+malat1	lncRNA-disease	cardiac senescence
+malat1	lncRNA-disease	cardiovascular disease
+malat1	lncRNA-disease	chronic thromboembolic pulmonary hypertension
+malat1	lncRNA-disease	coronary artery disease
+malat1	lncRNA-disease	coronary atherosclerotic heart disease
+malat1	lncRNA-disease	crohn disease
+malat1	lncRNA-disease	diabetes mellitus
+malat1	lncRNA-disease	diabetes retinopathy
+malat1	lncRNA-disease	diabetic cataract
+malat1	lncRNA-disease	diabetic nephropathy
+malat1	lncRNA-disease	diabetic retinopathy
+malat1	lncRNA-disease	gestational diabetes mellitus
+malat1	lncRNA-disease	glucocorticoid-induced osteonecrosis of femoral head
+malat1	lncRNA-disease	intervertebral disc degeneration
+malat1	lncRNA-disease	ischemic stroke
+malat1	lncRNA-disease	malignant melanoma
+malat1	lncRNA-disease	moyamoya disease
+malat1	lncRNA-disease	multiple sclerosis
+malat1	lncRNA-disease	myocardial infarction
+malat1	lncRNA-disease	osteoarthritis
+malat1	lncRNA-disease	osteoporosis
+malat1	lncRNA-disease	ovarian endometriosis
+malat1	lncRNA-disease	t2dm with depression
+malat1	lncRNA-disease	temporal lobe epilepsy
+malat1	lncRNA-disease	type 2 diabetes mellitus
+meg3	lncRNA-disease	active pulmonary tuberculosis
+meg3	lncRNA-disease	acute ischemic stroke
+meg3	lncRNA-disease	acute myeloid leukemia
+meg3	lncRNA-disease	alzheimer
+meg3	lncRNA-disease	asthma
+meg3	lncRNA-disease	cardiac fibrosis
+meg3	lncRNA-disease	chronic myeloid leukemia
+meg3	lncRNA-disease	diabetes mellitus
+meg3	lncRNA-disease	diabetes retinopathy
+meg3	lncRNA-disease	diabetic retinopathy
+meg3	lncRNA-disease	gestational diabetes mellitus
+meg3	lncRNA-disease	hepatic steatosis
+meg3	lncRNA-disease	hepatocellular steatosis
+meg3	lncRNA-disease	hirschsprung disease
+meg3	lncRNA-disease	ischemic stroke
+meg3	lncRNA-disease	malignant melanoma
+meg3	lncRNA-disease	osteoarthritis
+meg3	lncRNA-disease	osteoporosis
+meg3	lncRNA-disease	postmenopausal osteoporosis
+meg3	lncRNA-disease	rheumatoid arthritis
+meg3	lncRNA-disease	tuberculosis
+meg8	lncRNA-disease	diabetes mellitus
+meg8	lncRNA-disease	diabetic nephropathy
+meg8	lncRNA-disease	gestational diabetes mellitus
+mfi2-as1	lncRNA-disease	osteoarthritis
+mhrt	lncRNA-disease	heart failure
+miat	lncRNA-disease	acute ischemic stroke
+miat	lncRNA-disease	atherosclerosis
+miat	lncRNA-disease	cardiac fibrosis
+miat	lncRNA-disease	coronary artery disease
+miat	lncRNA-disease	coronary atherosclerotic heart disease
+miat	lncRNA-disease	diabetic nephropathy
+miat	lncRNA-disease	moyamoya disease
+miat	lncRNA-disease	myocardial infarction
+miat	lncRNA-disease	systemic lupus erythematous
+miat	lncRNA-disease	type 2 diabetes mellitus
+mical2	lncRNA-disease	liver fibrosis
+mir22hg	lncRNA-disease	osteoarthritis
+mir31hg	lncRNA-disease	hirschsprung disease
+mir4435-2hg	lncRNA-disease	osteoarthritis
+mir99ahg	lncRNA-disease	active pulmonary tuberculosis
+mirt1	lncRNA-disease	myocardial infarction
+mirt2	lncRNA-disease	inflammatory bowel disease
+mrak048635_p1	lncRNA-disease	hypertensive
+msc-as1	lncRNA-disease	osteoporosis
+n1lr	lncRNA-disease	ischemic stroke
+nalt	lncRNA-disease	acute lymphoblastic leukemia
+nbr2	lncRNA-disease	temporal lobe epilepsy
+ncrna00259	lncRNA-disease	temporal lobe epilepsy
+neat1	lncRNA-disease	active pulmonary tuberculosis
+neat1	lncRNA-disease	active tuberculosis
+neat1	lncRNA-disease	acute ischemic stroke
+neat1	lncRNA-disease	acute myeloid leukemia
+neat1	lncRNA-disease	aortic aneurysm
+neat1	lncRNA-disease	cardiac senescence
+neat1	lncRNA-disease	coronary atherosclerotic heart disease
+neat1	lncRNA-disease	diabetic cataract
+neat1	lncRNA-disease	diabetic nephropathy
+neat1	lncRNA-disease	hepatocellular steatosis
+neat1	lncRNA-disease	herpes simplex virus 1 infection
+neat1	lncRNA-disease	intervertebral disc degeneration
+neat1	lncRNA-disease	liver fibrosis
+neat1	lncRNA-disease	lupus nephritis
+neat1	lncRNA-disease	malignant melanoma
+neat1	lncRNA-disease	metabolism-related diseases
+neat1	lncRNA-disease	osteoarthritis
+neat1	lncRNA-disease	rheumatoid arthritis
+neat1	lncRNA-disease	systemic lupus erythematous
+neat1	lncRNA-disease	tuberculosis
+neat1	lncRNA-disease	type 2 diabetes mellitus
+nkila	lncRNA-disease	osteoarthritis
+nkila	lncRNA-disease	type 2 diabetes mellitus
+nonhsag045500	lncRNA-disease	major depressive disorder
+nonhsag053901	lncRNA-disease	diabetic nephropathy
+nonhsat034045	lncRNA-disease	major depressive disorder
+nonhsat067134.2	lncRNA-disease	active tuberculosis
+nonhsat067134.2	lncRNA-disease	pulmonary tuberculosis
+nonhsat073641	lncRNA-disease	chronic thromboembolic pulmonary hypertension
+nonhsat078957.2	lncRNA-disease	active tuberculosis
+nonhsat078957.2	lncRNA-disease	pulmonary tuberculosis
+nonhsat101518.2	lncRNA-disease	active tuberculosis
+nonhsat101518.2	lncRNA-disease	pulmonary tuberculosis
+nonhsat142707	lncRNA-disease	major depressive disorder
+nonhsat148822.1	lncRNA-disease	active tuberculosis
+nonhsat148822.1	lncRNA-disease	pulmonary tuberculosis
+nonratt021972	lncRNA-disease	type 2 diabetes mellitus
+norad	lncRNA-disease	atherosclerosis
+norad	lncRNA-disease	glucocorticoid-induced osteonecrosis of femoral head
+nr_003142	lncRNA-disease	pulmonary tuberculosis
+nr_027830	lncRNA-disease	primary great saphenous vein varicosities
+nr_027927	lncRNA-disease	primary great saphenous vein varicosities
+nr_033515	lncRNA-disease	diabetic nephropathy
+nr_038221	lncRNA-disease	pulmonary tuberculosis
+nr_038323	lncRNA-disease	diabetic nephropathy
+nr_104160	lncRNA-disease	essential hypertension
+nr_105053	lncRNA-disease	pulmonary tuberculosis
+nrf	lncRNA-disease	myocardial infarction
+nron	lncRNA-disease	heart failure
+ntt	lncRNA-disease	rheumatoid arthritis
+oip5-as1	lncRNA-disease	intervertebral disc degeneration
+oip5-as1	lncRNA-disease	osteoarthritis
+pacer	lncRNA-disease	active pulmonary tuberculosis
+pacer	lncRNA-disease	osteoarthritis
+pandar	lncRNA-disease	acute myeloid leukemia
+pandar	lncRNA-disease	type 2 diabetes mellitus
+part1	lncRNA-disease	intervertebral disc degeneration
+part1	lncRNA-disease	osteoarthritis
+pced1b-as1	lncRNA-disease	active pulmonary tuberculosis
+pced1b-as1	lncRNA-disease	active tuberculosis
+pcfl	lncRNA-disease	myocardial infarction
+pcgem1	lncRNA-disease	osteoarthritis
+pfl	lncRNA-disease	cardiac fibrosis
+picsar	lncRNA-disease	rheumatoid arthritis
+plscr4	lncRNA-disease	heart failure
+prins	lncRNA-disease	diabetic nephropathy
+pro1768	lncRNA-disease	temporal lobe epilepsy
+pvt1	lncRNA-disease	asthma
+pvt1	lncRNA-disease	diabetic cataract
+pvt1	lncRNA-disease	osteoarthritis
+rapia	lncRNA-disease	atherosclerosis
+rmst	lncRNA-disease	hirschsprung disease
+rmst	lncRNA-disease	myocardial infarction
+rncr3	lncRNA-disease	moyamoya disease
+rp11-414j4	lncRNA-disease	temporal lobe epilepsy
+rp11-679b19.1	lncRNA-disease	crohn disease
+rp4-576h24.2	lncRNA-disease	leukemia
+rpph1	lncRNA-disease	diabetic nephropathy
+scarna10	lncRNA-disease	liver fibrosis
+sencr	lncRNA-disease	aortic aneurysm
+serpinb9p1	lncRNA-disease	acute ischemic stroke
+serpinb9p1	lncRNA-disease	ischemic stroke
+slc20a1	lncRNA-disease	intervertebral disc degeneration
+sled1	lncRNA-disease	proliferative vitreo retinopathy
+snhg1	lncRNA-disease	acute myeloid leukemia
+snhg1	lncRNA-disease	ischemic stroke
+snhg1	lncRNA-disease	osteoarthritis
+snhg1	lncRNA-disease	postmenopausal osteoporosis
+snhg12	lncRNA-disease	hypertensive
+snhg14	lncRNA-disease	ischemic stroke
+snhg14	lncRNA-disease	osteoarthritis
+snhg16	lncRNA-disease	atherosclerosis
+snhg16	lncRNA-disease	diabetic nephropathy
+snhg16	lncRNA-disease	osteoarthritis
+snhg16	lncRNA-disease	sciatic nerve injury
+snhg17	lncRNA-disease	gestational diabetes mellitus
+snhg17	lncRNA-disease	type 2 diabetes mellitus
+snhg20	lncRNA-disease	hepatocellular steatosis
+snhg3	lncRNA-disease	acute myeloid leukemia
+snhg4	lncRNA-disease	ovarian endometriosis
+snhg5	lncRNA-disease	acute myeloid leukemia
+snhg5	lncRNA-disease	aortic aneurysm
+snhg5	lncRNA-disease	chronic myeloid leukemia
+snhg5	lncRNA-disease	osteoarthritis
+snhg7	lncRNA-disease	liver fibrosis
+snhg7	lncRNA-disease	osteoarthritis
+snhg8	lncRNA-disease	ischemic stroke
+snhg8	lncRNA-disease	myocardial infarction
+snhg9	lncRNA-disease	osteoarthritis
+socs2-as1	lncRNA-disease	kawasaki disease
+sox2	lncRNA-disease	ischemic stroke
+sox2-ot	lncRNA-disease	heart failure
+sox2ot	lncRNA-disease	aortic aneurysm
+sox2ot	lncRNA-disease	diabetic nephropathy
+sox2ot	lncRNA-disease	gestational diabetes mellitus
+sra	lncRNA-disease	hepatocellular steatosis
+sra	lncRNA-disease	kawasaki disease
+sra1	lncRNA-disease	ovarian endometriosis
+t-all-r-lncr1	lncRNA-disease	acute lymphoblastic leukemia
+t199678	lncRNA-disease	multiple system atrophy
+tcf7	lncRNA-disease	diabetic nephropathy
+tcons_00019174	lncRNA-disease	major depressive disorder
+tcons_00483150	lncRNA-disease	systemic lupus erythematous
+tdrg1	lncRNA-disease	kawasaki disease
+tdrg1	lncRNA-disease	ovarian endometriosis
+terc	lncRNA-disease	osteoporosis
+thumpd3-as1	lncRNA-disease	osteoarthritis
+tincr	lncRNA-disease	pre-eclampsia
+tonsl-as1	lncRNA-disease	coronary artery disease
+tp53tg1	lncRNA-disease	metabolism-related diseases
+trpc7-as1	lncRNA-disease	intervertebral disc degeneration
+trpm2-as	lncRNA-disease	multiple sclerosis
+ttc28-as1	lncRNA-disease	type 2 diabetes mellitus
+ttty1	lncRNA-disease	temporal lobe epilepsy
+ttty11	lncRNA-disease	temporal lobe epilepsy
+ttty15	lncRNA-disease	cardiovascular disease
+ttty21	lncRNA-disease	temporal lobe epilepsy
+ttty3	lncRNA-disease	temporal lobe epilepsy
+tug1	lncRNA-disease	atherosclerosis
+tug1	lncRNA-disease	diabetic nephropathy
+tug1	lncRNA-disease	hypertensive
+tug1	lncRNA-disease	intervertebral disc degeneration
+tug1	lncRNA-disease	malignant melanoma
+tug1	lncRNA-disease	osteoporosis
+tug1	lncRNA-disease	pre-eclampsia
+tug1	lncRNA-disease	systemic lupus erythematous
+tug1	lncRNA-disease	type 2 diabetes mellitus
+twf1	lncRNA-disease	coronary artery disease
+u90926	lncRNA-disease	herpes simplex virus 1 infection
+uc.345-	lncRNA-disease	primary great saphenous vein varicosities
+uc.48+	lncRNA-disease	pulmonary tuberculosis
+uc001ykl.1	lncRNA-disease	systemic lupus erythematous
+uca1	lncRNA-disease	acute ischemic stroke
+uca1	lncRNA-disease	chronic myeloid leukemia
+uca1	lncRNA-disease	ovarian endometriosis
+uca1	lncRNA-disease	pre-eclampsia
+ufc1	lncRNA-disease	osteoarthritis
+veal2	lncRNA-disease	diabetes retinopathy
+vestar	lncRNA-disease	lymphangiogenesis
+vinas	lncRNA-disease	atherosclerosis
+vps9d1-as1	lncRNA-disease	acute lymphoblastic leukemia
+vps9d1-as1	lncRNA-disease	acute myeloid leukemia
+wt1-as	lncRNA-disease	alzheimer
+wtapp1	lncRNA-disease	chronic thromboembolic pulmonary hypertension
+xist	lncRNA-disease	alzheimer
+xist	lncRNA-disease	aortic aneurysm
+xist	lncRNA-disease	atherosclerosis
+xist	lncRNA-disease	coronary artery disease
+xist	lncRNA-disease	diabetic cataract
+xist	lncRNA-disease	diabetic nephropathy
+xist	lncRNA-disease	gestational diabetes mellitus
+xist	lncRNA-disease	intervertebral disc degeneration
+xist	lncRNA-disease	ischemic stroke
+xist	lncRNA-disease	myocardial infarction
+xist	lncRNA-disease	osteoarthritis
+xist	lncRNA-disease	rheumatoid arthritis
+xist	lncRNA-disease	systemic lupus erythematous
+xloc_035088	lncRNA-disease	acute ischemic stroke
+zeb1-as1	lncRNA-disease	acute lymphoblastic leukemia
+zeb1-as1	lncRNA-disease	diabetic nephropathy
+zeb2-as1	lncRNA-disease	acute myeloid leukemia
+zeb2-as1	lncRNA-disease	hematopoiesis
+zeb2-as1	lncRNA-disease	pre-eclampsia
+zfas1	lncRNA-disease	atherosclerosis
+zfas1	lncRNA-disease	irradiated hepatic stellate cell
+zfas1	lncRNA-disease	myocardial infarction
+zfas1	lncRNA-disease	rheumatoid arthritis
+zfas1	lncRNA-disease	temporal lobe epilepsy
+hsa_circ_0005127	circ-disease	facet joint osteoarthritis
+hsa_circrna_100192	circ-disease	diabetic retinopathy
+hsa_circrna_029965	circ-disease	active tuberculosis
+hsa_circ_0003391	circ-disease	postmenopausal osteoporosis
+hsa_circrna_101975	circ-disease	osteoarthritis
+hsa_circrna_000598	circ-disease	osteoarthritis
+hsa_circ_0056048	circ-disease	major depressive disorder
+hsa_circ_103047	circ-disease	rheumatoid arthritis
+circrna-0001855	circ-disease	pre-eclampsia
+hsa_circ_0087215	circ-disease	diabetes retinopathy
+hsa_circ_102470	circ-disease	leukoaraiosis
+hsa_circ_0000175	circ-disease	lupus nephritis
+circ_aff2	circ-disease	hematopoiesis
+hsa_circ_0012919	circ-disease	systemic lupus erythematous
+circdlgap4	circ-disease	acute ischemic stroke
+hsa_circ_0001859	circ-disease	rheumatoid arthritis
+hsa_circrna_050898	circ-disease	moyamoya disease
+hsa_circ_0002062	circ-disease	chronic thromboembolic pulmonary hypertension
+hsa_circ_0000519	circ-disease	multiple sclerosis
+circrna_092516	circ-disease	rheumatoid arthritis
+hsa_circ_0083964	circ-disease	rheumatoid arthritis
+hsa_circ_0004277	circ-disease	acute myeloid leukemia
+hsa-circ-0005870	circ-disease	hypertension
+hsa_circ_0061893	circ-disease	liver fibrosis
+hsa_circ_0000414	circ-disease	pulmonary tuberculosis
+hsa_circ_0014243	circ-disease	hypertension
+hsa_circ_002082	circ-disease	hepatic steatosis
+hsa_circ_0000488	circ-disease	acute myeloid leukemia
+cznf292	circ-disease	heart failure
+hsa_circ_0037909	circ-disease	essential hypertension
+hsa_circ_0056731	circ-disease	multiple sclerosis
+hsa_circ_0000615	circ-disease	lupus nephritis
+hsa_circ_0108308	circ-disease	multiple system atrophy
+hsa_circ_0083357	circ-disease	coronary artery disease
+hsa_circ_0063781	circ-disease	facet joint osteoarthritis
+hsa_circ_0008797	circ-disease	pulmonary tuberculosis
+hsa_circ_0081162	circ-disease	diabetes retinopathy
+hsa_circ_0005105	circ-disease	osteoarthritis
+hsa_circ_0064996	circ-disease	rheumatoid arthritis
+circrna_0046366	circ-disease	hepatocellular steatosis
+hsa_circ_0008305	circ-disease	intervertebral disc degeneration
+hsa_circ_0005519	circ-disease	asthma
+hsa_circ_0005442	circ-disease	pre-eclampsia
+hsa_circrna_100257	circ-disease	rheumatoid arthritis
+hsa_circ_0070616	circ-disease	repeated implantation failure
+circ_103124	circ-disease	crohn disease
+hsa_circ_0082824	circ-disease	coronary artery disease
+circ_cct4	circ-disease	temporal lobe epilepsy
+circular rna wdr77	circ-disease	cardiovascular disease
+czranb1	circ-disease	retinal neurodegeneration
+hsa_circ_0089810	circ-disease	primary great saphenous vein varicosities
+circfoxo3	circ-disease	cardiac senescence
+circrna_11058	circ-disease	rheumatic heart disease
+circrna_0018168	circ-disease	acne
+circ_004662	circ-disease	crohn disease
+circ_103546	circ-disease	crohn disease
+has-circrna_0046367	circ-disease	hepatic steatosis
+hsa_circrna_001937	circ-disease	active tuberculosis
+hsa_circ_0046599	circ-disease	systemic lupus erythematous
+hsa_circ_0049657	circ-disease	acute myeloid leukemia
+hsa_circ_004121	circ-disease	hepatic steatosis
+hsa_circrna_101720	circ-disease	moyamoya disease
+hsa_circ_0018508	circ-disease	type 2 diabetes mellitus
+hsa_circ_0071410	circ-disease	irradiated hepatic stellate cell
+hsa_circ_0053743	circ-disease	facet joint osteoarthritis
+hsa_circrna_063981	circ-disease	diabetic retinopathy
+hsa_circ_0023903	circ-disease	moyamoya disease
+circ-anapc7	circ-disease	acute myeloid leukemia
+hsa_circ_004183	circ-disease	hepatic steatosis
+hsa_circ_0002078	circ-disease	moyamoya disease
+circrna_11109	circ-disease	rheumatic heart disease
+hsa_circ_0021549	circ-disease	systemic lupus erythematous
+circ_0043144	circ-disease	proliferative vitreo retinopathy
+hsa_circ_0089310	circ-disease	major depressive disorder
+hsa_circ_0054537	circ-disease	coronary artery disease
+hsa_circ_0081108	circ-disease	diabetes retinopathy
+hsa_circ_0001947	circ-disease	acute myeloid leukemia
+hsa-circrna-102685	circ-disease	crohn disease
+circsmarca5	circ-disease	cardiovascular disease
+hsa_circ_0045272	circ-disease	systemic lupus erythematous
+hsa_circ_0000517	circ-disease	multiple sclerosis
+circ kmt2e	circ-disease	diabetic cataract
+cttn2	circ-disease	heart failure
+hsa_circ_0001410	circ-disease	major depressive disorder
+hsa_circ_0023956	circ-disease	active pulmonary tuberculosis
+hsa_circ_0092374	circ-disease	systemic lupus erythematous
+cttn4	circ-disease	heart failure
+hsa_circ_0001275	circ-disease	postmenopausal osteoporosis
+cir-ccdc66	circ-disease	hirschsprung disease
+hsa_circrna_102296	circ-disease	active tuberculosis
+hsa_circ_0075001	circ-disease	acute myeloid leukemia
+hsa_circ_0003146	circ-disease	systemic lupus erythematous
+hsa_circrna11806-28	circ-disease	type 2 diabetes mellitus
+hsa_circ_0000378	circ-disease	primary great saphenous vein varicosities
+hsa_circ_0022342	circ-disease	chronic thromboembolic pulmonary hypertension
+hsa_circ_406329	circ-disease	primary biliary cholangitis
+hsa_circ_0124644	circ-disease	coronary artery disease
+hsa_circrna_092516	circ-disease	rheumatoid arthritis
+hsa_circrna_009024	circ-disease	active tuberculosis
+hsa_circrna_103503	circ-disease	rheumatoid arthritis
+hsa-circ-0008139	circ-disease	hypertension
+circ-prkci	circ-disease	hirschsprung disease
+hsa_circrna_404457	circ-disease	diabetic retinopathy
+hsa_circ_0006801	circ-disease	postmenopausal osteoporosis
+circrna.1030	circ-disease	gestational diabetes mellitus
+hsa_circ_0013255	circ-disease	irradiated hepatic stellate cell
+circrna7752	circ-disease	herpes simplex virus 1 infection
+hsa_circ_0080210	circ-disease	intervertebral disc degeneration
+hsa_circ_0041796	circ-disease	diabetes retinopathy
+hsa_circ_0023404	circ-disease	osteoarthritis
+circsema4b	circ-disease	intervertebral disc degeneration
+hsa_circ_0005218	circ-disease	pre-eclampsia
+hsa_circ_0049224	circ-disease	systemic lupus erythematous
+hsa_circ_0008887	circ-disease	immunosenescence
+hsa_circ_0072668	circ-disease	facet joint osteoarthritis
+hsa_circrna_104871	circ-disease	rheumatoid arthritis
+circ_drosha	circ-disease	temporal lobe epilepsy
+hsa_circ_0002569	circ-disease	moyamoya disease
+circpvt1	circ-disease	acute lymphoblastic leukemia
+hsa_circ_0072765	circ-disease	liver fibrosis
+circ_usp9y	circ-disease	temporal lobe epilepsy
+hsa_circ_0000681	circ-disease	pulmonary tuberculosis
+hsa_circ_0006404	circ-disease	myocardial senescence
+hsa_circ_0070963	circ-disease	liver fibrosis
+hsa_circ_000361	circ-disease	primary biliary cholangitis
+hsa_circ_0123996	circ-disease	kawasaki disease
+hsa_circ_0005870	circ-disease	hypertensive
+hsa_circ_0113854	circ-disease	coronary artery disease
+circrna_0084927	circ-disease	acne
+hsa_circ_0002161	circ-disease	essential hypertension
+hsa_circrna_003251	circ-disease	t2dm with depression
+circrunx2	circ-disease	osteoporosis
+circpan3	circ-disease	acute myeloid leukemia
+hsa_circ_0106803	circ-disease	multiple sclerosis
+hsa_circ_0026143	circ-disease	ovarian endometriosis
+hsa_circ_0000615	circ-disease	myocardial infarction
+hsa_circrna_103387	circ-disease	osteoarthritis
+hsa_circrna_14623	circ-disease	pulmonary tuberculosis
+hsa_circrna_005019	circ-disease	t2dm with depression
+circrna_101873	circ-disease	rheumatoid arthritis
+hsa_circ_0068489	circ-disease	diabetes retinopathy
+cttn1	circ-disease	heart failure
+hsa_circ_0068087	circ-disease	type 2 diabetes mellitus
+hsa_circrna_0054633	circ-disease	gestational diabetes mellitus
+hsa_circrna_103047	circ-disease	rheumatoid arthritis
+circrna_0016624	circ-disease	postmenopausal osteoporosis
+hsa_circ_0002908	circ-disease	pulmonary tuberculosis
+hsa_circ_101396	circ-disease	leukoaraiosis
+hsa-circ-0040809	circ-disease	hypertension
+circ-satb2	circ-disease	coronary atherosclerotic heart disease
+hsa_circ_052372	circ-disease	primary biliary cholangitis
+hsa_circrna_100782	circ-disease	pre-eclampsia
+hsa_circ_0005267	circ-disease	primary great saphenous vein varicosities
+hsa_circ_0054345	circ-disease	liver fibrosis
+hsa_circ_0005620	circ-disease	major depressive disorder
+hsa_circ_0058058	circ-disease	acute myeloid leukemia
+hsa_circ_0006766	circ-disease	postmenopausal osteoporosis
+hsa_circ_0030045	circ-disease	tuberculosis
+hsa_circrna_100914	circ-disease	moyamoya disease
+hsa_circ_0005836	circ-disease	active pulmonary tuberculosis
+hsa_circ_0001204	circ-disease	tuberculosis
+hsa_circ_0008078	circ-disease	acute myeloid leukemia
+circ_102610	circ-disease	crohn disease
+hsa_circ_0087206	circ-disease	diabetes retinopathy
+circrna_000203	circ-disease	cardiac fibrosis
+hsa_circ_0072765	circ-disease	irradiated hepatic stellate cell
+hsa_circ_0008615	circ-disease	systemic lupus erythematous
+circrna_104871	circ-disease	rheumatoid arthritis
+hsa_circ_0061893	circ-disease	irradiated hepatic stellate cell
+hsa_circ_0036877	circ-disease	pre-eclampsia
+hsa_circ_0005015	circ-disease	diabetes retinopathy
+hsa_circrna_101873	circ-disease	rheumatoid arthritis
+hsa_circrna_104854	circ-disease	repeated implantation failure
+hsa_circ_092516	circ-disease	rheumatoid arthritis
+hsa_circ_0052012	circ-disease	rheumatoid arthritis
+hsa_circ_0006935	circ-disease	repeated implantation failure
+circ_sdha	circ-disease	primary great saphenous vein varicosities
+hsa_circrna_102101	circ-disease	active tuberculosis
+hsa_circ_0023115	circ-disease	ovarian endometriosis
+hsa_circrna_100750	circ-disease	diabetic retinopathy
+hsa_circ_0032891	circ-disease	multiple system atrophy
+hsa_circ_0089378	circ-disease	coronary artery disease
+hsa-circ-0000437	circ-disease	hypertension
+hsa_circ_0082081	circ-disease	coronary artery disease
+hsa_circ_0001866	circ-disease	systemic lupus erythematous
+cttn5	circ-disease	heart failure
+circ_ubqln1	circ-disease	temporal lobe epilepsy
+hsa_circ_0000615	circ-disease	diabetes retinopathy
+hsa_circ_0000518	circ-disease	multiple sclerosis
+hsa_circrna_103410	circ-disease	diabetic retinopathy
+circrna-0004904	circ-disease	pre-eclampsia
+hsa_circ_0032683	circ-disease	rheumatoid arthritis
+hsa_circ_0126991	circ-disease	essential hypertension
+hsa_circ_0054633	circ-disease	type 2 diabetes mellitus
+circ_092520	circ-disease	crohn disease
+circrna_0001073	circ-disease	acne
+circrna.20159	circ-disease	gestational diabetes mellitus
+hsa_circ_0068942	circ-disease	coronary artery disease
+circrna_26852	circ-disease	metabolism-related diseases
+hsa_circrna_101319	circ-disease	rheumatoid arthritis
+hsa_circ_0067209	circ-disease	moyamoya disease
+hsa_circ_0070963	circ-disease	irradiated hepatic stellate cell
+hsa_circrna_067209	circ-disease	moyamoya disease
+hsa_circ_0026372	circ-disease	diabetes retinopathy
+hsa_circ_0004277	circ-disease	leukemia
+hsa_circ_0044235	circ-disease	rheumatoid arthritis
+circrna_09993	circ-disease	pulmonary tuberculosis
+hsa_circ_0051172	circ-disease	coronary artery disease
+circznf609	circ-disease	vascular endothelial dysfunction
+hsa_circ_0088452	circ-disease	active pulmonary tuberculosis
+circrna-0067835	circ-disease	temporal lobe epilepsy
+hsa_circ_0001946	circ-disease	alzheimer
+hsa_circ_0034398	circ-disease	systemic lupus erythematous
+hsa-circrna11783-2	circ-disease	coronary artery disease
+hsa_circ_0007788	circ-disease	postmenopausal osteoporosis
+hsa_circ_0000479	circ-disease	systemic lupus erythematous
+hsa_circ_0002113	circ-disease	pulmonary tuberculosis
+hsa_circ_087631	circ-disease	primary biliary cholangitis
+hsa_circ_0066922	circ-disease	diabetes retinopathy
+circhla-c	circ-disease	lupus nephritis
+hsa_circ_0032970	circ-disease	coronary artery disease
+hsa_circ_0024892	circ-disease	multiple sclerosis
+hsa_circrna_102034	circ-disease	rheumatoid arthritis
+hsa_circ_0078768	circ-disease	active pulmonary tuberculosis
+circ_stk17a	circ-disease	temporal lobe epilepsy
+hsa_circrna_091692	circ-disease	active tuberculosis
+hsa_circ_0013255	circ-disease	liver fibrosis
+circrna-chr19	circ-disease	ebola virus disease
+hsa_circ6510-1	circ-disease	type 2 diabetes mellitus
+hsa_circ_0054211	circ-disease	multiple system atrophy
+hsa_circ_0071896	circ-disease	facet joint osteoarthritis
+hsa_circ_0035381	circ-disease	acute myeloid leukemia
+hsa_circrna_404686	circ-disease	repeated implantation failure
+hsa_circ_0054345	circ-disease	irradiated hepatic stellate cell
+hsa_circ_0001819	circ-disease	lupus nephritis
+circusp45	circ-disease	glucocorticoid-induced osteonecrosis of femoral head
+hsa_circ_0032131	circ-disease	osteoarthritis
+hsa_circ_000367	circ-disease	hepatic steatosis
+hsa_circ_0100783	circ-disease	immunosenescence
+hsa_circrna_406918	circ-disease	diabetic retinopathy
+hsa_circ_0002362	circ-disease	pulmonary tuberculosis
+hsa_circ_0001417	circ-disease	tuberculosis
+hsa_circ_0030055	circ-disease	diabetes retinopathy
+hsa_circ_103783	circ-disease	leukoaraiosis
+hsa_circ_003524	circ-disease	rheumatoid arthritis
+hsa_circ_0057762	circ-disease	systemic lupus erythematous
+hsa_circ_0071410	circ-disease	liver fibrosis
+hsa_circ_0005540	circ-disease	multiple system atrophy
+circtlk1	circ-disease	ischemic stroke
+circ_stk24	circ-disease	temporal lobe epilepsy
+circ_efcab2	circ-disease	temporal lobe epilepsy
+hsa_circ_0009128	circ-disease	active pulmonary tuberculosis
+hsa_circ_100290	circ-disease	acute myeloid leukemia
+hsa_circ_0004712	circ-disease	rheumatoid arthritis
+hsa_circ_407176	circ-disease	primary biliary cholangitis
+hsa_circrna_103343	circ-disease	moyamoya disease
+hsa_circ_0029601	circ-disease	pre-eclampsia
+hsa_circ_0087537	circ-disease	facet joint osteoarthritis
+circptpn22	circ-disease	systemic lupus erythematous
+hsa_circ_0026388	circ-disease	diabetes retinopathy
+hsa_circ_402458	circ-disease	primary biliary cholangitis
+hsa_circ_0063179	circ-disease	pulmonary tuberculosis
+hsa_circ_0006427	circ-disease	primary great saphenous vein varicosities
+hsa_circrna_044353	circ-disease	repeated implantation failure
+circrna_0005941	circ-disease	acne
+hsa_circrna_104964	circ-disease	active tuberculosis
+hsa_circ_0068087	circ-disease	diabetes mellitus
+circrna_0086376	circ-disease	acne
+hsa_circ_0001400	circ-disease	multiple sclerosis
+hsa_circ_0001187	circ-disease	acute myeloid leukemia
+hsa_circ_0017446	circ-disease	acute myeloid leukemia
+circrna7231	circ-disease	herpes simplex virus 1 infection
+hsa_circ_0040705	circ-disease	systemic lupus erythematous
+circrna_13478	circ-disease	pulmonary tuberculosis
+circrna6783	circ-disease	herpes simplex virus 1 infection
+hsa_circ6510-1	circ-disease	coronary artery disease

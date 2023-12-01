@@ -20,8 +20,8 @@ The expected structure of files is:
     ├── data
     │   ├── dataset1
     │   ├── dataset1_ind
-       │   ├── dataset2
-       │   ├── dataset2_ind
+    │   ├── dataset2
+    │   ├── dataset2_ind
     │   ├── dataset3
     │   └── dataset3_ind
     ├── results
@@ -29,7 +29,7 @@ The expected structure of files is:
     ├── utils_KGRACDA.py
     ├── train.py
     ├── load_data.py
-       └── models_KGRACDA.py
+    └── models_KGRACDA.py
 ```
 
 ## Dataset

@@ -1,0 +1,190 @@
+achalasia	0
+acne	1
+acute ischemic stroke	2
+acute lymphoblastic leukemia	3
+acute myeloid leukemia	4
+acute promyelocytic leukemia	5
+alveolar echinococcosis	6
+alzheimer disease	7
+ameloblastoma	8
+angelman syndrome	9
+angiogenesis	10
+angiogenesis in glioma	11
+arsenic poisoning	12
+arsenite induced skin oncogenesis	13
+arteriosclerotic cardiovascular disease	14
+astrocytoma	15
+atherosclerosis	16
+autism spectrum disorder	17
+basal cell carcinoma	18
+bladder carcinoma	19
+bladder urothelial carcinoma	20
+breast cancer	21
+breast carcinoma	22
+capillary hemangioma	23
+cardiac differentiation disease	24
+cardiac repair after myocardial infarction	25
+cardiac senescence	26
+cardiovascular system disease	27
+carotid disease and ischemic stroke	28
+carotid plaque rupture	29
+carotid plaque rupture and stroke	30
+castration resistant prostate carcinoma	31
+cerebrovascular ischemia	32
+cervical adenocarcinoma	33
+cervical cancer	34
+cervical squamous cell carcinoma	35
+cervical tumor	36
+cholangiocarcinoma	37
+chronic lymphocytic leukemia	38
+chronic myeloid leukemia	39
+chronic thromboembolic pulmonary hypertension	40
+clear cell renal cell carcinoma	41
+colon cancer	42
+colorectal cancer	43
+colorectal carcinoma	44
+complex tuberous sclerosis	45
+coronary artery disease	46
+coronary atherosclerosis	47
+coronary atherosclerotic heart disease	48
+coronary heart disease	49
+crohn disease	50
+cutaneous squamous cell carcinoma	51
+deep vein thrombosis	52
+degenerative disc disease	53
+diabetes mellitus	54
+diabetes mellitus correlated vasculopathy	55
+diabetes retinopathy	56
+diabetic nephropathy	57
+diabetic retinopathy	58
+diffuse large b cell lymphoma	59
+digestive system neoplasm	60
+duchenne muscular dystrophy	61
+endometrial cancer	62
+endometrial carcinoma	63
+endometriosis	64
+endometriosis of ovary	65
+epithelial ovarian cancer	66
+esophageal cancer	67
+esophageal carcinoma	68
+esophagus squamous cell carcinoma	69
+focal segmental glomerulosclerosis	70
+gallbladder cancer	71
+gallbladder carcinoma	72
+gastric cancer	73
+gastric carcinoma	74
+glioblastoma	75
+glioblastoma multiforme	76
+glioma	77
+hand foot and mouth disease	78
+head and neck squamous cell carcinoma	79
+heart disease	80
+heart failure	81
+hepatic carcinoma	82
+hepatoblastoma	83
+hepatocellular cancer	84
+hepatocellular carcinoma	85
+high glucose and hypoxia stress	86
+hirschsprung disease	87
+hormone secreting pituitary adenoma	88
+huvec inflammatory damage	89
+hypertension	90
+hypopharyngeal cancer	91
+hypopharyngeal squamous cell carcinoma	92
+hypoxia	93
+hypoxia induced pulmonary hypertension	94
+infantile hemangioma	95
+intervertebral disc degeneration	96
+intracranial aneurysm	97
+intrahepatic cholangiocarcinoma	98
+irradiated hepatic stellate cell	99
+ischemic cardiomyopathy	100
+ischemic stroke	101
+kawasaki disease	102
+kidney clear cell carcinoma	103
+kidney cortex necrosis	104
+laryngeal cancer	105
+laryngeal squamous cell carcinoma	106
+leukemia	107
+liver cancer	108
+liver cell carcinoma	109
+liver fibrosis	110
+lung adenocarcinoma	111
+lung cancer	112
+lung carcinoma	113
+lung non small cell carcinoma	114
+lung squamous cell carcinoma	115
+lupus nephritis	116
+lymphangiogenesis	117
+lymphoblastic lymphoma	118
+malignant melanoma	119
+melanoma	120
+metabolic syndrome	121
+mucoepidermoid carcinoma	122
+multiple myeloma	123
+multiple sclerosis	124
+myocardial infarction	125
+myocardial senescence	126
+nasopharyngeal carcinoma	127
+nasopharynx carcinoma	128
+neuroblastoma	129
+neuropathic pain	130
+oesophageal carcinoma	131
+oesophageal squamous cell cancer	132
+oral squamous cell carcinoma	133
+osteoarthritis	134
+osteoporosis	135
+osteosarcoma	136
+ovarian cancer	137
+ovarian carcinoma	138
+ovarian endometriosis	139
+pancreatic cancer	140
+pancreatic ductal adenocarcinoma	141
+papillary thyroid carcinoma	142
+paraganglioma	143
+parkinson disease	144
+pheochromocytoma	145
+polycystic ovary syndrome	146
+pre eclampsia	147
+primary great saphenous vein varicosity	148
+prostate adenocarcinoma	149
+prostate cancer	150
+pulmonary fibrosis	151
+pulmonary silicosis	152
+radiation induced liver fibrosis	153
+radioresistant esophageal cancer cells	154
+renal cancer	155
+renal carcinoma	156
+renal cell carcinoma	157
+renal clear cell carcinoma	158
+retinal vascular dysfunction	159
+retinoblastoma	160
+rhabdomyosarcoma	161
+rheumatoid arthritis	162
+salivary adenoid cystic carcinoma	163
+sars cov2	164
+schwannoma tumor	165
+sepsis	166
+skin squamous cell carcinoma	167
+small cell lung cancer	168
+solid cancer	169
+stage iii gastric cancer	170
+stomach cancer	171
+stomach carcinoma	172
+systemic lupus erythematosus	173
+t cell acute lymphoblastic leukemia	174
+t cell lymphoblastic lymphoma	175
+thyroid cancer	176
+thyroid carcinoma	177
+tongue cancer	178
+tongue squamous cell carcinoma	179
+total hip arthroplasty	180
+trichosporon asahii	181
+triple negative breast cancer	182
+triple negative sporadic breast cancer	183
+tuberculosis	184
+type 1 diabetes mellitus	185
+urinary bladder cancer	186
+urothelial cancer	187
+vascular dysfunction	188
+vascular endothelial dysfunction	189

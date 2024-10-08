@@ -1,0 +1,647 @@
+circ-ANAPC7	circ-disease	acute myeloid leukemia
+circPAN3	circ-disease	acute myeloid leukemia
+circRNA_100290	circ-disease	acute myeloid leukemia
+hsa_circ_0000488	circ-disease	acute myeloid leukemia
+hsa_circ_0009910	circ-disease	acute myeloid leukemia
+hsa_circ_100290	circ-disease	acute myeloid leukemia
+circ-HIPK2	circ-disease	acute promyelocytic leukemia
+BCRC-3	circ-disease	bladder cancer
+CDR1as	circ-disease	bladder cancer
+cTFRC	circ-disease	bladder cancer
+ciRs-6	circ-disease	bladder cancer
+circ-Foxo3	circ-disease	bladder cancer
+circ-ITCH	circ-disease	bladder cancer
+circ-PRMT5	circ-disease	bladder cancer
+circ-ZKSCAN1	circ-disease	bladder cancer
+circCEP128	circ-disease	bladder cancer
+circCTDP1	circ-disease	bladder cancer
+circDOCK1	circ-disease	bladder cancer
+circFNDC3B	circ-disease	bladder cancer
+circFUT8	circ-disease	bladder cancer
+circLPAR1	circ-disease	bladder cancer
+circMTO1	circ-disease	bladder cancer
+circMYLK	circ-disease	bladder cancer
+circNR3C1	circ-disease	bladder cancer
+circPICALM	circ-disease	bladder cancer
+circPTPRA	circ-disease	bladder cancer
+circRGNEF	circ-disease	bladder cancer
+circRIP2	circ-disease	bladder cancer
+circSLC8A1	circ-disease	bladder cancer
+circUBXN7	circ-disease	bladder cancer
+circUVRAG	circ-disease	bladder cancer
+circVANGL1	circ-disease	bladder cancer
+circZFR	circ-disease	bladder cancer
+hsa_circRNA_102336	circ-disease	bladder cancer
+hsa_circ_0000144	circ-disease	bladder cancer
+hsa_circ_0000799	circ-disease	bladder cancer
+hsa_circ_0001073	circ-disease	bladder cancer
+hsa_circ_0001361	circ-disease	bladder cancer
+hsa_circ_0001429	circ-disease	bladder cancer
+hsa_circ_0002768	circ-disease	bladder cancer
+hsa_circ_001598	circ-disease	bladder cancer
+hsa_circ_0018069	circ-disease	bladder cancer
+hsa_circ_0041103	circ-disease	bladder cancer
+hsa_circ_0058063	circ-disease	bladder cancer
+hsa_circ_0068871	circ-disease	bladder cancer
+hsa_circ_0071662	circ-disease	bladder cancer
+hsa_circ_0075828	circ-disease	bladder cancer
+hsa_circ_0137439	circ-disease	bladder cancer
+hsa_circ_0137606	circ-disease	bladder cancer
+hsa_circ_100242	circ-disease	bladder cancer
+circHIPK3	circ-disease	bladder urothelial carcinoma
+circ-ABCB10	circ-disease	breast cancer
+circ-CDYL	circ-disease	breast cancer
+circ-UBE2D2	circ-disease	breast cancer
+circACAP2	circ-disease	breast cancer
+circASS1	circ-disease	breast cancer
+circBMPR2	circ-disease	breast cancer
+circCCDC66	circ-disease	breast cancer
+circDENND4C	circ-disease	breast cancer
+circEHMT1	circ-disease	breast cancer
+circHIPK3	circ-disease	breast cancer
+circIRAK3	circ-disease	breast cancer
+circKDM4C	circ-disease	breast cancer
+circMYO9B	circ-disease	breast cancer
+circRNA-CER	circ-disease	breast cancer
+circRNA_000911	circ-disease	breast cancer
+hsa_circRNA_002178	circ-disease	breast cancer
+hsa_circ_0000073	circ-disease	breast cancer
+hsa_circ_0000911	circ-disease	breast cancer
+hsa_circ_0001098	circ-disease	breast cancer
+hsa_circ_0001982	circ-disease	breast cancer
+hsa_circ_0004771	circ-disease	breast cancer
+hsa_circ_0005230	circ-disease	breast cancer
+hsa_circ_0005239	circ-disease	breast cancer
+hsa_circ_0006528	circ-disease	breast cancer
+hsa_circ_0007255	circ-disease	breast cancer
+hsa_circ_0007534	circ-disease	breast cancer
+hsa_circ_0008039	circ-disease	breast cancer
+hsa_circ_0008717	circ-disease	breast cancer
+hsa_circ_001783	circ-disease	breast cancer
+hsa_circ_0025202	circ-disease	breast cancer
+hsa_circ_0052112	circ-disease	breast cancer
+hsa_circ_0061825	circ-disease	breast cancer
+hsa_circ_0068033	circ-disease	breast cancer
+hsa_circ_0072309	circ-disease	breast cancer
+hsa_circ_0072995	circ-disease	breast cancer
+hsa_circ_0103552	circ-disease	breast cancer
+hsa_circ_0136666	circ-disease	breast cancer
+hsa_circ_100219	circ-disease	breast cancer
+hsa_circ_0001427	circ-disease	castration-resistant prostate cancer
+circ-ATP8A2	circ-disease	cervical cancer
+circ-ITCH	circ-disease	cervical cancer
+circAGFG1	circ-disease	cervical cancer
+circCCDC66	circ-disease	cervical cancer
+circCLK3	circ-disease	cervical cancer
+circEIF4G2	circ-disease	cervical cancer
+circMTO1	circ-disease	cervical cancer
+circRNA_000284	circ-disease	cervical cancer
+circRNA_8924	circ-disease	cervical cancer
+hsa_circRNA_101996	circ-disease	cervical cancer
+hsa_circ_0000263	circ-disease	cervical cancer
+hsa_circ_0000515	circ-disease	cervical cancer
+hsa_circ_0001038	circ-disease	cervical cancer
+hsa_circ_0001445	circ-disease	cervical cancer
+hsa_circ_0004214	circ-disease	cervical cancer
+hsa_circ_0005576	circ-disease	cervical cancer
+hsa_circ_0007534	circ-disease	cervical cancer
+hsa_circ_0023404	circ-disease	cervical cancer
+hsa_circ_0031288	circ-disease	cervical cancer
+hsa_circ_0033550	circ-disease	cervical cancer
+hsa_circ_0060467	circ-disease	cervical cancer
+hsa_circ_0067934	circ-disease	cervical cancer
+hsa_circ_0075341	circ-disease	cervical cancer
+hsa_circ_103973	circ-disease	cervical cancer
+hsa_circ_CSPP1	circ-disease	cervical cancer
+hsa_circ_0005230	circ-disease	cholangiocarcinoma
+circ-CBFB	circ-disease	chronic lymphocytic leukemia
+hsa_circ_0080145	circ-disease	chronic myeloid leukemia
+circATP2B1	circ-disease	clear cell renal cell carcinoma
+circHIAT1	circ-disease	clear cell renal cell carcinoma
+circPCNXL2	circ-disease	clear cell renal cell carcinoma
+hsa_circ_001895	circ-disease	clear cell renal cell carcinoma
+circ-CDYL	circ-disease	colon cancer
+circDENND4C	circ-disease	colon cancer
+circPIP5K1A	circ-disease	colon cancer
+circRNA-ACAP2	circ-disease	colon cancer
+hsa_circ_00001666	circ-disease	colon cancer
+hsa_circ_0001313	circ-disease	colon cancer
+hsa_circ_0005963	circ-disease	colon cancer
+hsa_circ_0007843	circ-disease	colon cancer
+hsa_circ_0055625	circ-disease	colon cancer
+CBL.11	circ-disease	colorectal cancer
+circ-ITCH	circ-disease	colorectal cancer
+circ-NSD2	circ-disease	colorectal cancer
+circ-PRMT5	circ-disease	colorectal cancer
+circ-ZNF609	circ-disease	colorectal cancer
+circANKS1B	circ-disease	colorectal cancer
+circCCT3	circ-disease	colorectal cancer
+circITGA7	circ-disease	colorectal cancer
+circPVT1	circ-disease	colorectal cancer
+circRNA_100290	circ-disease	colorectal cancer
+hsa_circRNA_086376	circ-disease	colorectal cancer
+hsa_circRNA_102761	circ-disease	colorectal cancer
+hsa_circRNA_105055	circ-disease	colorectal cancer
+hsa_circ_0000218	circ-disease	colorectal cancer
+hsa_circ_0000284	circ-disease	colorectal cancer
+hsa_circ_0000523	circ-disease	colorectal cancer
+hsa_circ_0001900	circ-disease	colorectal cancer
+hsa_circ_0002211	circ-disease	colorectal cancer
+hsa_circ_0005100	circ-disease	colorectal cancer
+hsa_circ_0006990	circ-disease	colorectal cancer
+hsa_circ_0007534	circ-disease	colorectal cancer
+hsa_circ_0009361	circ-disease	colorectal cancer
+hsa_circ_001569	circ-disease	colorectal cancer
+hsa_circ_0020397	circ-disease	colorectal cancer
+hsa_circ_0026344	circ-disease	colorectal cancer
+hsa_circ_0053277	circ-disease	colorectal cancer
+hsa_circ_0067835	circ-disease	colorectal cancer
+hsa_circ_0071589	circ-disease	colorectal cancer
+hsa_circ_0072088	circ-disease	colorectal cancer
+hsa_circ_0079993	circ-disease	colorectal cancer
+hsa_circ_0136666	circ-disease	colorectal cancer
+hsa_circ_0137008	circ-disease	colorectal cancer
+hsa_circ_101555	circ-disease	colorectal cancer
+hsa_circRNA_100833	circ-disease	cutaneous squamous cell carcinoma
+hsa_circRNA_100834	circ-disease	cutaneous squamous cell carcinoma
+hsa_circ_0070934	circ-disease	cutaneous squamous cell carcinoma
+hsa_circ_0127621	circ-disease	diffuse large b-cell lymphoma
+circTNFRSF21	circ-disease	endometrial cancer
+hsa_circ_0002577	circ-disease	endometrial cancer
+hsa_circ_0039569	circ-disease	endometrial cancer
+hsa_circ_0061140	circ-disease	endometrial cancer
+circ-ABCB10	circ-disease	epithelial ovarian cancer
+circ-ITCH	circ-disease	epithelial ovarian cancer
+circ-PGAM1	circ-disease	epithelial ovarian cancer
+circ-RAD23B	circ-disease	esophageal cancer
+circPVT1	circ-disease	esophageal cancer
+circRNA_001275	circ-disease	esophageal cancer
+hsa_circ_0000554	circ-disease	esophageal cancer
+hsa_circ_0006168	circ-disease	esophageal cancer
+CDR1as	circ-disease	esophageal squamous cell cancer
+circ-PRKCI	circ-disease	esophageal squamous cell cancer
+circ-VRK1	circ-disease	esophageal squamous cell cancer
+circUBAP2	circ-disease	esophageal squamous cell cancer
+hsa_circ_0000337	circ-disease	esophageal squamous cell cancer
+hsa_circ_0000654	circ-disease	esophageal squamous cell cancer
+hsa_circ_0004771	circ-disease	esophageal squamous cell cancer
+hsa_circ_0006168	circ-disease	esophageal squamous cell cancer
+hsa_circ_0006948	circ-disease	esophageal squamous cell cancer
+circHIPK3	circ-disease	gallbladder cancer
+hsa_circ_0008234	circ-disease	gallbladder cancer
+CDR1as	circ-disease	gastric cancer
+ciRS-133	circ-disease	gastric cancer
+circ-CEP85L	circ-disease	gastric cancer
+circ-DCAF6	circ-disease	gastric cancer
+circ-EIF4G3	circ-disease	gastric cancer
+circ-ERBB2	circ-disease	gastric cancer
+circ-NOTCH1	circ-disease	gastric cancer
+circ-PRMT5	circ-disease	gastric cancer
+circ-RanGAP1	circ-disease	gastric cancer
+circ-SFMBT2	circ-disease	gastric cancer
+circATXN7	circ-disease	gastric cancer
+circHECTD1	circ-disease	gastric cancer
+circHIAT1	circ-disease	gastric cancer
+circHIPK3	circ-disease	gastric cancer
+circMLLT10	circ-disease	gastric cancer
+circMTO1	circ-disease	gastric cancer
+circNF1	circ-disease	gastric cancer
+circNRIP1	circ-disease	gastric cancer
+circPDSS1	circ-disease	gastric cancer
+circPSMC3	circ-disease	gastric cancer
+circPVT1	circ-disease	gastric cancer
+circRBMS3	circ-disease	gastric cancer
+circRHOBTB3	circ-disease	gastric cancer
+circRNA_001569	circ-disease	gastric cancer
+circRNA_0047905	circ-disease	gastric cancer
+circRNA_104433	circ-disease	gastric cancer
+circYAP1	circ-disease	gastric cancer
+circZFR	circ-disease	gastric cancer
+circ_SPECC1	circ-disease	gastric cancer
+hsa_circ_0000199	circ-disease	gastric cancer
+hsa_circ_0000267	circ-disease	gastric cancer
+hsa_circ_0000291	circ-disease	gastric cancer
+hsa_circ_0000376	circ-disease	gastric cancer
+hsa_circ_0000467	circ-disease	gastric cancer
+hsa_circ_0000592	circ-disease	gastric cancer
+hsa_circ_0000673	circ-disease	gastric cancer
+hsa_circ_0000993	circ-disease	gastric cancer
+hsa_circ_0001368	circ-disease	gastric cancer
+hsa_circ_0001461	circ-disease	gastric cancer
+hsa_circ_0001546	circ-disease	gastric cancer
+hsa_circ_0001658	circ-disease	gastric cancer
+hsa_circ_0001725	circ-disease	gastric cancer
+hsa_circ_0001772	circ-disease	gastric cancer
+hsa_circ_0001897	circ-disease	gastric cancer
+hsa_circ_0001946	circ-disease	gastric cancer
+hsa_circ_0003855	circ-disease	gastric cancer
+hsa_circ_0004928	circ-disease	gastric cancer
+hsa_circ_0006282	circ-disease	gastric cancer
+hsa_circ_0006848	circ-disease	gastric cancer
+hsa_circ_0008106	circ-disease	gastric cancer
+hsa_circ_0008365	circ-disease	gastric cancer
+hsa_circ_0008549	circ-disease	gastric cancer
+hsa_circ_0014130	circ-disease	gastric cancer
+hsa_circ_0027599	circ-disease	gastric cancer
+hsa_circ_0032627	circ-disease	gastric cancer
+hsa_circ_0056618	circ-disease	gastric cancer
+hsa_circ_0058092	circ-disease	gastric cancer
+hsa_circ_0060456	circ-disease	gastric cancer
+hsa_circ_006100	circ-disease	gastric cancer
+hsa_circ_0067997	circ-disease	gastric cancer
+hsa_circ_0081143	circ-disease	gastric cancer
+hsa_circ_0092303	circ-disease	gastric cancer
+hsa_circ_0092306	circ-disease	gastric cancer
+circ-Foxo3	circ-disease	glioblastoma
+circ-PITX1	circ-disease	glioblastoma
+circMTO1	circ-disease	glioblastoma
+circNT5E	circ-disease	glioblastoma
+hsa_circ_0001801	circ-disease	glioblastoma
+hsa_circ_0001946	circ-disease	glioblastoma
+hsa_circ_0043949	circ-disease	glioblastoma
+hsa_circ_0074027	circ-disease	glioblastoma
+circMMP9	circ-disease	glioblastoma multiforme
+circ-CDC45	circ-disease	glioma
+circ-DICER1	circ-disease	glioma
+circ-EZH2	circ-disease	glioma
+circ-ITCH	circ-disease	glioma
+circ-PITX1	circ-disease	glioma
+circ-POSTN	circ-disease	glioma
+circ-PTPRZ1	circ-disease	glioma
+circ-TTBK2	circ-disease	glioma
+circ-ZNF264	circ-disease	glioma
+circHIPK3	circ-disease	glioma
+circKIF4A	circ-disease	glioma
+circMAN2B2	circ-disease	glioma
+circNFIX	circ-disease	glioma
+circPTN	circ-disease	glioma
+circSCAF11	circ-disease	glioma
+circSHKBP1	circ-disease	glioma
+circSMO742	circ-disease	glioma
+hsa_circ_0000177	circ-disease	glioma
+hsa_circ_0000594	circ-disease	glioma
+hsa_circ_0001801	circ-disease	glioma
+hsa_circ_0002142	circ-disease	glioma
+hsa_circ_0005198	circ-disease	glioma
+hsa_circ_0007534	circ-disease	glioma
+hsa_circ_0008225	circ-disease	glioma
+hsa_circ_0012129	circ-disease	glioma
+hsa_circ_0014359	circ-disease	glioma
+hsa_circ_0015758	circ-disease	glioma
+hsa_circ_002136	circ-disease	glioma
+hsa_circ_0034642	circ-disease	glioma
+hsa_circ_0037251	circ-disease	glioma
+hsa_circ_0037655	circ-disease	glioma
+hsa_circ_0046701	circ-disease	glioma
+hsa_circ_0047688	circ-disease	glioma
+hsa_circ_0061868	circ-disease	glioma
+hsa_circ_0073237	circ-disease	glioma
+hsa_circ_0074026	circ-disease	glioma
+hsa_circ_0074362	circ-disease	glioma
+hsa_circ_0076248	circ-disease	glioma
+hsa_circ_0079593	circ-disease	glioma
+hsa_circ_0082374	circ-disease	glioma
+hsa_circ_0088732	circ-disease	glioma
+circRNA_036186	circ-disease	head and neck squamous cell carcinoma
+hsa_circ_0000495	circ-disease	head and neck squamous cell carcinoma
+circRNA_100284	circ-disease	hepatic carcinoma
+hsa_circ_0015756	circ-disease	hepatoblastoma
+hsa_circ_0072391	circ-disease	hepatoblastoma
+circ-ABCB10	circ-disease	hepatocellular carcinoma
+circ-CDYL	circ-disease	hepatocellular carcinoma
+circ-FOXP1	circ-disease	hepatocellular carcinoma
+circ-HOMER1	circ-disease	hepatocellular carcinoma
+circ-PRKCI	circ-disease	hepatocellular carcinoma
+circ-PRMT5	circ-disease	hepatocellular carcinoma
+circ-SMAD2	circ-disease	hepatocellular carcinoma
+circ-TCF4.85	circ-disease	hepatocellular carcinoma
+circ-ZEB1.33	circ-disease	hepatocellular carcinoma
+circABCC2	circ-disease	hepatocellular carcinoma
+circADAMTS13	circ-disease	hepatocellular carcinoma
+circADAMTS14	circ-disease	hepatocellular carcinoma
+circASAP1	circ-disease	hepatocellular carcinoma
+circC3P1	circ-disease	hepatocellular carcinoma
+circDYNC1H1	circ-disease	hepatocellular carcinoma
+circFBLIM1	circ-disease	hepatocellular carcinoma
+circHIAT1	circ-disease	hepatocellular carcinoma
+circLARP4	circ-disease	hepatocellular carcinoma
+circMAN2B2	circ-disease	hepatocellular carcinoma
+circMAT2B	circ-disease	hepatocellular carcinoma
+circMYLK	circ-disease	hepatocellular carcinoma
+circPCNX	circ-disease	hepatocellular carcinoma
+circPTGR1	circ-disease	hepatocellular carcinoma
+circRBM23	circ-disease	hepatocellular carcinoma
+circRNA_101368	circ-disease	hepatocellular carcinoma
+circRNA_101505	circ-disease	hepatocellular carcinoma
+circRNA_104718	circ-disease	hepatocellular carcinoma
+circRNA_5692	circ-disease	hepatocellular carcinoma
+circSLC3A2	circ-disease	hepatocellular carcinoma
+circTRIM33-12	circ-disease	hepatocellular carcinoma
+circZFR	circ-disease	hepatocellular carcinoma
+hsa_circRNA_0007874	circ-disease	hepatocellular carcinoma
+hsa_circRNA_101764	circ-disease	hepatocellular carcinoma
+hsa_circ_0000092	circ-disease	hepatocellular carcinoma
+hsa_circ_0000204	circ-disease	hepatocellular carcinoma
+hsa_circ_0000284	circ-disease	hepatocellular carcinoma
+hsa_circ_0000567	circ-disease	hepatocellular carcinoma
+hsa_circ_0000673	circ-disease	hepatocellular carcinoma
+hsa_circ_0001178	circ-disease	hepatocellular carcinoma
+hsa_circ_0001649	circ-disease	hepatocellular carcinoma
+hsa_circ_0001946	circ-disease	hepatocellular carcinoma
+hsa_circ_0001955	circ-disease	hepatocellular carcinoma
+hsa_circ_0003258	circ-disease	hepatocellular carcinoma
+hsa_circ_0005075	circ-disease	hepatocellular carcinoma
+hsa_circ_0005986	circ-disease	hepatocellular carcinoma
+hsa_circ_000839	circ-disease	hepatocellular carcinoma
+hsa_circ_0008450	circ-disease	hepatocellular carcinoma
+hsa_circ_0009910	circ-disease	hepatocellular carcinoma
+hsa_circ_001569	circ-disease	hepatocellular carcinoma
+hsa_circ_0015756	circ-disease	hepatocellular carcinoma
+hsa_circ_0016788	circ-disease	hepatocellular carcinoma
+hsa_circ_0021093	circ-disease	hepatocellular carcinoma
+hsa_circ_0039411	circ-disease	hepatocellular carcinoma
+hsa_circ_0046600	circ-disease	hepatocellular carcinoma
+hsa_circ_0051443	circ-disease	hepatocellular carcinoma
+hsa_circ_0056836	circ-disease	hepatocellular carcinoma
+hsa_circ_0067934	circ-disease	hepatocellular carcinoma
+hsa_circ_0070269	circ-disease	hepatocellular carcinoma
+hsa_circ_0078710	circ-disease	hepatocellular carcinoma
+hsa_circ_0091570	circ-disease	hepatocellular carcinoma
+hsa_circ_0091581	circ-disease	hepatocellular carcinoma
+hsa_circ_0101432	circ-disease	hepatocellular carcinoma
+hsa_circ_0103809	circ-disease	hepatocellular carcinoma
+hsa_circ_100338	circ-disease	hepatocellular carcinoma
+hsa_circ_101280	circ-disease	hepatocellular carcinoma
+hsa_circ_103809	circ-disease	hepatocellular carcinoma
+hsa_circ_104075	circ-disease	hepatocellular carcinoma
+hsa_circ_0005027	circ-disease	hypopharyngeal cancer
+hsa_circ_0008287	circ-disease	hypopharyngeal cancer
+hsa_circRNA_001654	circ-disease	infantile hemangioma
+hsa_circRNA_100933	circ-disease	infantile hemangioma
+hsa_circRNA_102116	circ-disease	infantile hemangioma
+hsa_circRNA_104310	circ-disease	infantile hemangioma
+circ2174	circ-disease	intrahepatic cholangiocarcinoma
+circHIPK3	circ-disease	kidney clear cell carcinoma
+hsa_circ_0057481	circ-disease	laryngeal cancer
+CDR1as	circ-disease	laryngeal squamous cell carcinoma
+circRNA_100290	circ-disease	laryngeal squamous cell carcinoma
+hsa_circ_0023303	circ-disease	laryngeal squamous cell carcinoma
+hsa_circ_0042666	circ-disease	laryngeal squamous cell carcinoma
+hsa_circ_0044520	circ-disease	laryngeal squamous cell carcinoma
+hsa_circ_0044529	circ-disease	laryngeal squamous cell carcinoma
+hsa_circ_0059354	circ-disease	laryngeal squamous cell carcinoma
+hsa_circ_0092012	circ-disease	laryngeal squamous cell carcinoma
+circADAMTS13	circ-disease	liver cancer
+circHIPK3	circ-disease	liver cancer
+circRNA_0072309	circ-disease	liver cancer
+hsa_circ_0003028	circ-disease	liver cancer
+hsa_circ_0007915	circ-disease	liver cancer
+hsa_circ_0071410	circ-disease	liver cancer
+hsa_circ_0091579	circ-disease	liver cancer
+hsa_circ_100395	circ-disease	liver cancer
+cMras	circ-disease	lung adenocarcinoma
+circ-ENO1	circ-disease	lung adenocarcinoma
+circ-PRKCI	circ-disease	lung adenocarcinoma
+circ-SOX4	circ-disease	lung adenocarcinoma
+circABCC4	circ-disease	lung adenocarcinoma
+circPUM1	circ-disease	lung adenocarcinoma
+circPVT1	circ-disease	lung adenocarcinoma
+circRNF13	circ-disease	lung adenocarcinoma
+hsa_circ_0000729	circ-disease	lung adenocarcinoma
+hsa_circ_0000792	circ-disease	lung adenocarcinoma
+hsa_circ_0001946	circ-disease	lung adenocarcinoma
+hsa_circ_0002346	circ-disease	lung adenocarcinoma
+hsa_circ_0003998	circ-disease	lung adenocarcinoma
+hsa_circ_0006427	circ-disease	lung adenocarcinoma
+hsa_circ_0012673	circ-disease	lung adenocarcinoma
+hsa_circ_0013958	circ-disease	lung adenocarcinoma
+hsa_circ_0014130	circ-disease	lung adenocarcinoma
+hsa_circ_0020732	circ-disease	lung adenocarcinoma
+hsa_circ_0025036	circ-disease	lung adenocarcinoma
+hsa_circ_0067934	circ-disease	lung adenocarcinoma
+circ-ABCB10	circ-disease	lung cancer
+circ-AKT3	circ-disease	lung cancer
+circ-BANP	circ-disease	lung cancer
+circ-ITCH	circ-disease	lung cancer
+circGFRA1	circ-disease	lung cancer
+circHIPK3	circ-disease	lung cancer
+circMAN2B2	circ-disease	lung cancer
+circPVT1	circ-disease	lung cancer
+circUBAP2	circ-disease	lung cancer
+hsa_circRNA_100833	circ-disease	lung cancer
+hsa_circRNA_103595	circ-disease	lung cancer
+hsa_circRNA_103809	circ-disease	lung cancer
+hsa_circ_0000284	circ-disease	lung cancer
+hsa_circ_0001821	circ-disease	lung cancer
+hsa_circ_0006916	circ-disease	lung cancer
+hsa_circ_0007059	circ-disease	lung cancer
+hsa_circ_0012673	circ-disease	lung cancer
+hsa_circ_0046264	circ-disease	lung cancer
+hsa_circ_100395	circ-disease	lung cancer
+circ-PAX2	circ-disease	lung squamous cell carcinoma
+circTP63	circ-disease	lung squamous cell carcinoma
+hsa_circ_0000408	circ-disease	lung squamous cell carcinoma
+circRNA_0084043	circ-disease	malignant melanoma
+hsa_circ_0025039	circ-disease	malignant melanoma
+circ-FOXM1	circ-disease	melanoma
+circMYC	circ-disease	melanoma
+hsa_circ_0017247	circ-disease	melanoma
+hsa_circ_0084043	circ-disease	melanoma
+hsa_circ_0012342	circ-disease	mucoepidermoid carcinoma
+hsa_circ_0000190	circ-disease	multiple myeloma
+CDR1as	circ-disease	nasopharyngeal carcinoma
+circHIPK3	circ-disease	nasopharyngeal carcinoma
+circRNA_000543	circ-disease	nasopharyngeal carcinoma
+circRPMS1	circ-disease	nasopharyngeal carcinoma
+hsa_circ_0008450	circ-disease	nasopharyngeal carcinoma
+CDR1as	circ-disease	non-small cell lung cancer
+circ-ACACA	circ-disease	non-small cell lung cancer
+circ-FOXM1	circ-disease	non-small cell lung cancer
+circ-Foxo3	circ-disease	non-small cell lung cancer
+circ-PRMT5	circ-disease	non-small cell lung cancer
+circ-RAD23B	circ-disease	non-small cell lung cancer
+circAGFG1	circ-disease	non-small cell lung cancer
+circBIRC6	circ-disease	non-small cell lung cancer
+circFARSA	circ-disease	non-small cell lung cancer
+circFGFR1	circ-disease	non-small cell lung cancer
+circFGFR3	circ-disease	non-small cell lung cancer
+circMTDH.4	circ-disease	non-small cell lung cancer
+circP4HB	circ-disease	non-small cell lung cancer
+circPTPRA	circ-disease	non-small cell lung cancer
+circPVT1	circ-disease	non-small cell lung cancer
+circRNA_100146	circ-disease	non-small cell lung cancer
+circSMARCA5	circ-disease	non-small cell lung cancer
+circVANGL1	circ-disease	non-small cell lung cancer
+hsa_circ_0000003	circ-disease	non-small cell lung cancer
+hsa_circ_0000284	circ-disease	non-small cell lung cancer
+hsa_circ_0000735	circ-disease	non-small cell lung cancer
+hsa_circ_0001649	circ-disease	non-small cell lung cancer
+hsa_circ_0001727	circ-disease	non-small cell lung cancer
+hsa_circ_0003645	circ-disease	non-small cell lung cancer
+hsa_circ_0003998	circ-disease	non-small cell lung cancer
+hsa_circ_0004015	circ-disease	non-small cell lung cancer
+hsa_circ_0007385	circ-disease	non-small cell lung cancer
+hsa_circ_0008305	circ-disease	non-small cell lung cancer
+hsa_circ_0008717	circ-disease	non-small cell lung cancer
+hsa_circ_0011780	circ-disease	non-small cell lung cancer
+hsa_circ_0012384	circ-disease	non-small cell lung cancer
+hsa_circ_0014130	circ-disease	non-small cell lung cancer
+hsa_circ_0016760	circ-disease	non-small cell lung cancer
+hsa_circ_0020123	circ-disease	non-small cell lung cancer
+hsa_circ_0026134	circ-disease	non-small cell lung cancer
+hsa_circ_0043256	circ-disease	non-small cell lung cancer
+hsa_circ_0043278	circ-disease	non-small cell lung cancer
+hsa_circ_0062389	circ-disease	non-small cell lung cancer
+hsa_circ_0072083	circ-disease	non-small cell lung cancer
+hsa_circ_0072309	circ-disease	non-small cell lung cancer
+hsa_circ_0074027	circ-disease	non-small cell lung cancer
+hsa_circ_0076305	circ-disease	non-small cell lung cancer
+hsa_circ_0078767	circ-disease	non-small cell lung cancer
+hsa_circ_0087862	circ-disease	non-small cell lung cancer
+circ-PKD2	circ-disease	oral squamous cell carcinoma
+circ-SCARB1	circ-disease	oral squamous cell carcinoma
+circATRNL1	circ-disease	oral squamous cell carcinoma
+circDOCK1	circ-disease	oral squamous cell carcinoma
+circHIPK3	circ-disease	oral squamous cell carcinoma
+circPVT1	circ-disease	oral squamous cell carcinoma
+circRNA_100290	circ-disease	oral squamous cell carcinoma
+hsa_circRNA_100533	circ-disease	oral squamous cell carcinoma
+hsa_circ_0000140	circ-disease	oral squamous cell carcinoma
+hsa_circ_0001971	circ-disease	oral squamous cell carcinoma
+hsa_circ_0002185	circ-disease	oral squamous cell carcinoma
+hsa_circ_0008309	circ-disease	oral squamous cell carcinoma
+hsa_circ_0072387	circ-disease	oral squamous cell carcinoma
+hsa_circ_009755	circ-disease	oral squamous cell carcinoma
+CDR1as	circ-disease	osteosarcoma
+circ-ITCH	circ-disease	osteosarcoma
+circEPSTI1	circ-disease	osteosarcoma
+circFAT1	circ-disease	osteosarcoma
+circLARP4	circ-disease	osteosarcoma
+circMMP9	circ-disease	osteosarcoma
+circMYO10	circ-disease	osteosarcoma
+circNASP	circ-disease	osteosarcoma
+circPVT1	circ-disease	osteosarcoma
+circRNA_100876	circ-disease	osteosarcoma
+circTCF25	circ-disease	osteosarcoma
+circ_ANKIB1	circ-disease	osteosarcoma
+circ_ARF3	circ-disease	osteosarcoma
+circ_ORC2	circ-disease	osteosarcoma
+hsa_circ_0000190	circ-disease	osteosarcoma
+hsa_circ_0001105	circ-disease	osteosarcoma
+hsa_circ_0001564	circ-disease	osteosarcoma
+hsa_circ_0001658	circ-disease	osteosarcoma
+hsa_circ_0001721	circ-disease	osteosarcoma
+hsa_circ_0001785	circ-disease	osteosarcoma
+hsa_circ_0002052	circ-disease	osteosarcoma
+hsa_circ_0004846	circ-disease	osteosarcoma
+hsa_circ_0008792	circ-disease	osteosarcoma
+hsa_circ_0009910	circ-disease	osteosarcoma
+hsa_circ_0043278	circ-disease	osteosarcoma
+hsa_circ_0051079	circ-disease	osteosarcoma
+hsa_circ_0056288	circ-disease	osteosarcoma
+hsa_circ_0060428	circ-disease	osteosarcoma
+hsa_circ_0092509	circ-disease	osteosarcoma
+hsa_circ_0102049	circ-disease	osteosarcoma
+circ-CSPP1	circ-disease	ovarian cancer
+circ-FAM53B	circ-disease	ovarian cancer
+circ-ITCH	circ-disease	ovarian cancer
+circEPSTI1	circ-disease	ovarian cancer
+circGFRA1	circ-disease	ovarian cancer
+circLARP4	circ-disease	ovarian cancer
+circPLEKHM3	circ-disease	ovarian cancer
+circPUM1	circ-disease	ovarian cancer
+circRhoC	circ-disease	ovarian cancer
+circWHSC1	circ-disease	ovarian cancer
+hsa_circ_0004390	circ-disease	ovarian cancer
+hsa_circ_0007874	circ-disease	ovarian cancer
+hsa_circ_0051240	circ-disease	ovarian cancer
+hsa_circ_100395	circ-disease	ovarian cancer
+circ-ADAM9	circ-disease	pancreatic cancer
+circ-IARS	circ-disease	pancreatic cancer
+circ-LDLRAD3	circ-disease	pancreatic cancer
+circ-PDE8A	circ-disease	pancreatic cancer
+circCCDC66	circ-disease	pancreatic cancer
+circHIPK3	circ-disease	pancreatic cancer
+circRHOT1	circ-disease	pancreatic cancer
+hsa_circ_0000977	circ-disease	pancreatic cancer
+hsa_circ_0006215	circ-disease	pancreatic cancer
+hsa_circ_0099999	circ-disease	pancreatic cancer
+circ-ASH2L	circ-disease	pancreatic ductal adenocarcinoma
+circFOXK2	circ-disease	pancreatic ductal adenocarcinoma
+hsa_circRNA_0007334	circ-disease	pancreatic ductal adenocarcinoma
+hsa_circ_0000977	circ-disease	pancreatic ductal adenocarcinoma
+hsa_circ_0007534	circ-disease	pancreatic ductal adenocarcinoma
+hsa_circ_001653	circ-disease	pancreatic ductal adenocarcinoma
+hsa_circ_0030235	circ-disease	pancreatic ductal adenocarcinoma
+circ-FOXM1	circ-disease	papillary thyroid cancer
+circ-ITCH	circ-disease	papillary thyroid cancer
+circBACH2	circ-disease	papillary thyroid cancer
+circNUP214	circ-disease	papillary thyroid cancer
+circRAPGEF5	circ-disease	papillary thyroid cancer
+circZFR	circ-disease	papillary thyroid cancer
+hsa_circRNA_004662	circ-disease	papillary thyroid cancer
+hsa_circRNA_014213	circ-disease	papillary thyroid cancer
+hsa_circRNA_046843	circ-disease	papillary thyroid cancer
+hsa_circRNA_061346	circ-disease	papillary thyroid cancer
+hsa_circRNA_101408	circ-disease	papillary thyroid cancer
+hsa_circ_0004458	circ-disease	papillary thyroid cancer
+hsa_circ_0005273	circ-disease	papillary thyroid cancer
+hsa_circ_0015278	circ-disease	papillary thyroid cancer
+hsa_circ_0025033	circ-disease	papillary thyroid cancer
+circ-ITCH	circ-disease	prostate cancer
+circ-ZNF609	circ-disease	prostate cancer
+circABCC4	circ-disease	prostate cancer
+circAMOTL1L	circ-disease	prostate cancer
+circGUCY1A2	circ-disease	prostate cancer
+circHIPK3	circ-disease	prostate cancer
+circLMTK2	circ-disease	prostate cancer
+circMTO1	circ-disease	prostate cancer
+circSLC7A6	circ-disease	prostate cancer
+circZFP57	circ-disease	prostate cancer
+circ_KATNAL1	circ-disease	prostate cancer
+circ_SLC19A1	circ-disease	prostate cancer
+hsa_circRNA_008068	circ-disease	prostate cancer
+hsa_circRNA_091420	circ-disease	prostate cancer
+hsa_circRNA_101981	circ-disease	prostate cancer
+hsa_circRNA_101996	circ-disease	prostate cancer
+hsa_circRNA_406557	circ-disease	prostate cancer
+hsa_circ_0001206	circ-disease	prostate cancer
+hsa_circ_0006404	circ-disease	prostate cancer
+hsa_circ_0057558	circ-disease	prostate cancer
+hsa_circ_0062019	circ-disease	prostate cancer
+hsa_circ_0141940	circ-disease	prostate cancer
+circMTO1	circ-disease	rectal cancer
+circ-ZNF652	circ-disease	renal carcinoma
+circNRIP1	circ-disease	renal carcinoma
+hsa_circ_0072309	circ-disease	renal carcinoma
+circ-AKT3	circ-disease	renal cell carcinoma
+circMTO1	circ-disease	renal cell carcinoma
+circPRRC2A	circ-disease	renal cell carcinoma
+hsa_circ_000926	circ-disease	renal cell carcinoma
+hsa_circ_0035483	circ-disease	renal clear cell carcinoma
+hsa_circ_0093996	circ-disease	retinoblastoma
+hsa_circ_0059655	circ-disease	salivary adenoid cystic carcinoma
+circ-LAMP1	circ-disease	t-cell lymphoblastic lymphoma
+circNEK6	circ-disease	thyroid cancer
+hsa_circ_0011385	circ-disease	thyroid cancer
+hsa_circ_0058124	circ-disease	thyroid cancer
+hsa_circ_0060060	circ-disease	thyroid cancer
+hsa_circ_0067934	circ-disease	thyroid cancer
+hsa_circ_0001742	circ-disease	tongue squamous cell carcinoma
+hsa_circ_081069	circ-disease	tongue squamous cell carcinoma
+CDR1as	circ-disease	triple-negative breast cancer
+circ-ITCH	circ-disease	triple-negative breast cancer
+circAGFG1	circ-disease	triple-negative breast cancer
+circEPSTI1	circ-disease	triple-negative breast cancer
+circKIF4A	circ-disease	triple-negative breast cancer
+circPLK1	circ-disease	triple-negative breast cancer
+circSEPT9	circ-disease	triple-negative breast cancer
+circTADA2A-E6	circ-disease	triple-negative breast cancer
+hsa_circRNA_000479	circ-disease	triple-negative breast cancer
+hsa_circ_0001451	circ-disease	triple-negative breast cancer
+hsa_circ_0001846	circ-disease	triple-negative breast cancer
+hsa_circ_0002453	circ-disease	triple-negative breast cancer
+hsa_circ_0007294	circ-disease	triple-negative breast cancer
+hsa_circ_0009362	circ-disease	triple-negative breast cancer
+circ-PRMT5	circ-disease	urothelial carcinoma of bladder
+circFAM114A2	circ-disease	urothelial carcinoma of bladder

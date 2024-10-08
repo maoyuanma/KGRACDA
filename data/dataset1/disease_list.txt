@@ -1,0 +1,79 @@
+acne	0
+active pulmonary tuberculosis	1
+active tuberculosis	2
+acute ischemic stroke	3
+acute lymphoblastic leukemia	4
+acute myeloid leukemia	5
+alcoholic liver disease	6
+alzheimer	7
+aortic aneurysm	8
+asthma	9
+atherosclerosis	10
+cardiac fibrosis	11
+cardiac senescence	12
+cardiovascular disease	13
+carotid plaque rupture	14
+chronic myeloid leukemia	15
+chronic thromboembolic pulmonary hypertension	16
+coronary artery disease	17
+coronary atherosclerotic heart disease	18
+crohn disease	19
+diabetes mellitus	20
+diabetes retinopathy	21
+diabetic cataract	22
+diabetic nephropathy	23
+diabetic retinopathy	24
+ebola virus disease	25
+essential hypertension	26
+facet joint osteoarthritis	27
+gestational diabetes mellitus	28
+glucocorticoid-induced osteonecrosis of femoral head	29
+heart failure	30
+hematopoiesis	31
+hepatic steatosis	32
+hepatocellular steatosis	33
+herpes simplex virus 1 infection	34
+hirschsprung disease	35
+hypertension	36
+hypertensive	37
+immunosenescence	38
+inflammatory bowel disease	39
+intervertebral disc degeneration	40
+irradiated hepatic stellate cell	41
+ischemic stroke	42
+kawasaki disease	43
+leukemia	44
+leukoaraiosis	45
+liver fibrosis	46
+lupus nephritis	47
+lymphangiogenesis	48
+major depressive disorder	49
+malignant melanoma	50
+metabolism-related diseases	51
+moyamoya disease	52
+multiple sclerosis	53
+multiple system atrophy	54
+myocardial infarction	55
+myocardial senescence	56
+osteoarthritis	57
+osteoporosis	58
+ovarian endometriosis	59
+postmenopausal osteoporosis	60
+pre-eclampsia	61
+primary biliary cholangitis	62
+primary great saphenous vein varicosities	63
+proliferative vitreo retinopathy	64
+pulmonary tuberculosis	65
+repeated implantation failure	66
+retinal neurodegeneration	67
+rheumatic heart disease	68
+rheumatoid arthritis	69
+sciatic nerve injury	70
+silicosis	71
+systemic lupus erythematosus	72
+systemic lupus erythematous	73
+t2dm with depression	74
+temporal lobe epilepsy	75
+tuberculosis	76
+type 2 diabetes mellitus	77
+vascular endothelial dysfunction	78

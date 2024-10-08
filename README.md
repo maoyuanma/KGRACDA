@@ -5,7 +5,7 @@ KGRACDA:  Knowledge Graph-based Recursion and Attention Aggregation Model for Ci
 
 **KGRACDA** consistently achieves remarkable performance on three datasets (**dataset1**---a small dataset focusing on non-cancer used in previous works; **dataset2**---a larger heterogeneous dataset ; **dataset3**---a small dataset focusing on cancer used in previous works)
 
-We also provide a user-friendly interactive web-based platform (named **HNRBase v2.0**), which is publicly available at [http://lab-fly.site/KGETCDA](http://146.56.237.198:8012/).
+We also provide a user-friendly interactive web-based platform (named **HNRBase v2.0**), which is publicly available at [http://lab-fly.site/KGRACDA](http://146.56.237.198:8012/).
 
 ## Requirements
 
